@@ -40,5 +40,3 @@ Conventions of Punctuation:
 
 
 > In most cases, “affect” should be used as a verb and “effect” as a noun. (We said “most cases” because psychologists sometimes use “affect” as a noun to refer to emotion and because “effect” is—infrequently—used as a verb, as in “to effect a change.”)
-
-

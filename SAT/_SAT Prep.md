@@ -4,3 +4,6 @@
 
 
 [[SAT - Math]] ?
+
+
+"Effective" ALWAYS means more PRECISE and CONCICSE, in other words NEVER HAVE REDUNDANCY AAAAAAAAAAAA
