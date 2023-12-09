@@ -2,7 +2,7 @@
 びみに　んで
 き　　　いて
 ぎ　　　いで
-し　　　　て
+し　　　して
 行きます　行って
 おきます　起きて
 
@@ -22,6 +22,3 @@
 
 Please don't turn off the light now 今電気（でんき）をけさないでください
 Please don't open the window 窓（まど）をあけないでください。
-
-
-  
