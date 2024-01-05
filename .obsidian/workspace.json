@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "665a0e6562d606d0",
+        "id": "427ae64b73652619",
         "type": "tabs",
         "children": [
           {
-            "id": "0e7dcc138f547028",
+            "id": "4219afbb7ea1bd1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese.md",
+                "file": "Daily/2024-01-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1eb3dd3d13e6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2a832ac90fb4034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mohan clinic 3~4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c19faeb5d7481c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D Printer/Print 3DBenchy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese.md",
+                "file": "Mohan clinic 3~4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese.md",
+                "file": "Mohan clinic 3~4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese.md"
+                "file": "Mohan clinic 3~4.md"
               }
             }
           }
@@ -143,16 +180,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0e7dcc138f547028",
+  "active": "a2a832ac90fb4034",
   "lastOpenFiles": [
+    "Daily/2024-01-04.md",
+    "Mohan clinic 3~4.md",
+    "3D Printer/Print 3DBenchy.md",
+    "3D Printer/TPU printing.md",
+    "3D Printer",
+    "Daily/2024-01-02.md",
     "Godot.md",
-    "Mohan clinic 1.md",
+    "Chinese.md",
+    "Pitch Accent Apps.md",
     "Japanese.md",
+    "Mohan clinic 1.md",
+    "Daily/2023-12-27.md",
+    "Daily",
+    "Pasted image 20231217145424.png",
+    "Images/Pasted image 20231217145424.png",
+    "Images/Pasted image 20231217145414.png",
+    "Images/Pasted image 20231217145408.png",
+    "Images",
+    "New folder",
+    "Pasted image 20231217145414.png",
+    "Pasted image 20231217145408.png",
     "Today.md",
     "Untitled.canvas",
+    "2023-12-17.md",
     "SAT/_Writing summary.md",
     "SAT/_Reading summary.md",
     "SAT/_Math.md",
@@ -166,12 +223,6 @@
     "Writing - Argument.md",
     "Reading - History.md",
     "Reading - Science.md",
-    "Untitled 1.md",
-    "Reading - Literature.md",
-    "Writing - Narrative.md",
-    "Writing - Informative.md",
-    "Godot stuff.md",
-    "SAT",
-    "2023-11-19.md"
+    "SAT"
   ]
 }

@@ -5,6 +5,11 @@ mob.died.connect(func():
 	increaseh()
 )
 
+---
+https://youtu.be/QUtCdlov2kA
+printt() prints()
+
+---
 https://youtu.be/siK7mjyW2Rg?list=PLIPN1rqO-3eHRuQI_zNbHMGB7Tj8UvM7p
 2. Switch rgb to RAW mode to go above 1. Allows glow, translucency, etc.
 3. global_position and global_rotation
@@ -31,3 +36,14 @@ https://youtu.be/siK7mjyW2Rg?list=PLIPN1rqO-3eHRuQI_zNbHMGB7Tj8UvM7p
 9. **yield(get_tree(), "idle_frame")**  ?
 10. Turn on Show Ruler, click and drag to create reference line in 2d
 ---
+```gdscript
+var img = get_viewport().get_texture().get_data()
+img.flip_y()
+var texture = ImageTexture.new()
+texture.create_from_image(img)
+$Sprite.texture = texture
+$Animation.play("Dissolve")
+yield($Animation, "animation_finished")
+visible = false
+```
+1. Get a screenshot from 

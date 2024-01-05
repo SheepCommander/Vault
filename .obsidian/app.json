@@ -1,3 +1,10 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false,
+  "autoPairBrackets": false,
+  "useTab": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true
 }

@@ -1,3 +1,0 @@
-- Video prod (tomorrow too)
-- HIGH PRIORITY
-	- 
