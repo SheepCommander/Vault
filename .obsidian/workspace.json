@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "427ae64b73652619",
+        "id": "4584860c2e78390b",
         "type": "tabs",
         "children": [
           {
-            "id": "4219afbb7ea1bd1b",
+            "id": "6f326134fbf6120b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f1eb3dd3d13e6f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-01-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2a832ac90fb4034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mohan clinic 3~4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c19faeb5d7481c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D Printer/Print 3DBenchy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mohan clinic 3~4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mohan clinic 3~4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mohan clinic 3~4.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,19 +139,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a2a832ac90fb4034",
+  "active": "6f326134fbf6120b",
   "lastOpenFiles": [
     "Daily/2024-01-04.md",
-    "Mohan clinic 3~4.md",
-    "3D Printer/Print 3DBenchy.md",
+    "Skiing/Mohan clinic 3~4.md",
+    "Skiing/Mohan overview.md",
+    "Skiing/Mohan clinic 1.md",
+    "Egoism.md",
+    "Skiing/Mohan cards review.md",
     "3D Printer/TPU printing.md",
+    "Godot.md",
+    "Skiing",
+    "3D Printer/Print 3DBenchy.md",
     "3D Printer",
     "Daily/2024-01-02.md",
-    "Godot.md",
     "Chinese.md",
     "Pitch Accent Apps.md",
     "Japanese.md",
-    "Mohan clinic 1.md",
     "Daily/2023-12-27.md",
     "Daily",
     "Pasted image 20231217145424.png",
@@ -220,9 +179,6 @@
     "SAT/Reading - Social science.md",
     "SAT/_SAT Prep.md",
     "SAT/SAT - Math.md",
-    "Writing - Argument.md",
-    "Reading - History.md",
-    "Reading - Science.md",
     "SAT"
   ]
 }
