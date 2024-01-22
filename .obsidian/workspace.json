@@ -11,11 +11,28 @@
             "id": "6f326134fbf6120b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9dbcdc0cad063c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024 Jan Socratic Seminar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 Jan Socratic Seminar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 Jan Socratic Seminar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 Jan Socratic Seminar.md"
+              }
             }
           }
         ]
@@ -139,8 +160,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6f326134fbf6120b",
+  "active": "a9dbcdc0cad063c3",
   "lastOpenFiles": [
+    "Daily/2024-01-21.md",
+    "2024 Jan Socratic Seminar.md",
     "Daily/2024-01-04.md",
     "Skiing/Mohan clinic 3~4.md",
     "Skiing/Mohan overview.md",
@@ -177,8 +200,6 @@
     "SAT/SAT - Reading Strats.md",
     "SAT/Failed summary 1.md",
     "SAT/Reading - Social science.md",
-    "SAT/_SAT Prep.md",
-    "SAT/SAT - Math.md",
     "SAT"
   ]
 }
