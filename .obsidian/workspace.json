@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/Game stuff.md",
+                "file": "Long-Term.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot/Game stuff.md",
+                "file": "Long-Term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot/Game stuff.md",
+                "file": "Long-Term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot/Game stuff.md"
+                "file": "Long-Term.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +148,8 @@
   },
   "active": "3e0726dcfcf3c3b6",
   "lastOpenFiles": [
-    "Godot/Godot.md",
     "Godot/Game stuff.md",
+    "Godot/Godot.md",
     "Long-Term.md",
     "Chinese",
     "Chinese/Chinese.md",

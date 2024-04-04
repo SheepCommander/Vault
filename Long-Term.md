@@ -12,3 +12,6 @@ Hair routine: Dryer... that's it...
 Depilatory Cream:
 
 ###### Things to do:
+- Game ..
+- Calc...
+- idek???
