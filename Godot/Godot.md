@@ -7,7 +7,8 @@ mob.died.connect(func():
 
 ---
 https://youtu.be/QUtCdlov2kA
-printt() prints()
+printt(var1, var2) tab inbetween variables
+prints(var1, var2) space inbetween variables
 
 ---
 https://youtu.be/siK7mjyW2Rg?list=PLIPN1rqO-3eHRuQI_zNbHMGB7Tj8UvM7p
