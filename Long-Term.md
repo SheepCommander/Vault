@@ -27,3 +27,4 @@ Lips:
 - idek???
 - Japanese
 - Bahasa Indonesia
+- Learn all lyrics of Red Sun
