@@ -28,3 +28,6 @@ Lips:
 - Japanese
 - Bahasa Indonesia
 - Learn all lyrics of Red Sun
+
+
+jewelry is cheaper and better quality in Asia, take a trip and save money
