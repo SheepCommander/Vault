@@ -23,11 +23,15 @@ Lips:
 ###### Things to do:
 - Game ..
 - Game..
-- Calc...
+- Calc... CALC KHAN ACADEMY NOTES
 - idek???
 - Japanese
 - Bahasa Indonesia
 - Learn all lyrics of Red Sun
+- Internships CS
+- JAPANESE ARI
+- CS50
+- Psych Course 
 
 
 jewelry is cheaper and better quality in Asia, take a trip and save money
