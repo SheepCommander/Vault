@@ -35,3 +35,6 @@ Lips:
 
 
 jewelry is cheaper and better quality in Asia, take a trip and save money
+
+#### living
+wake up early, prepare everything, wake up A and cuddle for an hour before leaving?
