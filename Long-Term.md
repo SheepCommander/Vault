@@ -21,10 +21,9 @@ Skin softening:
 Lips:
 
 ###### Things to do:
-- Game ..
-- Game..
+- Godot!
+- Certain games i dont play often (HoloX!)
 - Calc... CALC KHAN ACADEMY NOTES
-- idek???
 - Japanese
 - Bahasa Indonesia
 - Learn all lyrics of Red Sun

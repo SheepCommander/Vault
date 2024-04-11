@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a2b5238167613dc",
+        "id": "5045156c8a90f085",
         "type": "tabs",
         "children": [
           {
-            "id": "3e0726dcfcf3c3b6",
+            "id": "af3a9cdf3bd76d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3e0726dcfcf3c3b6",
+  "active": "af3a9cdf3bd76d56",
   "lastOpenFiles": [
+    "Daily/2024-04-11.md",
+    "Long-Term.md",
     "Godot/Game stuff.md",
     "Godot/Godot.md",
-    "Long-Term.md",
     "Chinese",
     "Chinese/Chinese.md",
     "Daily/2024-04-03.md",
@@ -192,7 +193,6 @@
     "Indonesian II/1.2.md",
     "Indonesian II/5.2.md",
     "Indonesian II/6.2.md",
-    "Daily/2024-03-19.md",
     "Godot",
     "Untitled.canvas"
   ]
