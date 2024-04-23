@@ -2,6 +2,7 @@ Long Term:
 Food:
 - Bearfoot Bistro (french, icecream)
 - Raisu (japanese, kotatsu)
+- Sodam chicken
 
 ***HOLOLIVE MASKS!!!***
 
