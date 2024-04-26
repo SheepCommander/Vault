@@ -2,12 +2,13 @@ Long Term:
 Food:
 - Bearfoot Bistro (french, icecream)
 - Raisu (japanese, kotatsu)
+- Sodam chicken
 
 ***HOLOLIVE MASKS!!!***
 
 Shower routine: Acne body soap + shampoo... that's it..
 Skincare routine: Exfoliator, 
-Dental routine: Brush (no-toothpaste), floss, waterfloss, brush w/fluorite toothpaste or fluorite mouthwash
+Dental routine: Brush (no-toothpaste), floss, waterfloss, brush w/fluoride toothpaste or fluoride mouthwash
 Hair routine: Dryer... that's it...
 
 Depilatory Cream:
