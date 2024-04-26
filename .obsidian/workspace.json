@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5045156c8a90f085",
+        "id": "7fd068eca2ef05e3",
         "type": "tabs",
         "children": [
           {
-            "id": "af3a9cdf3bd76d56",
+            "id": "0681dc5529747b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Long-Term.md",
+                "file": "Indonesian II/11.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Long-Term.md",
+                "file": "Indonesian II/11.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Long-Term.md",
+                "file": "Indonesian II/11.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Long-Term.md"
+                "file": "Indonesian II/11.1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +148,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "af3a9cdf3bd76d56",
+  "active": "0681dc5529747b47",
   "lastOpenFiles": [
-    "Daily/2024-04-11.md",
+    "Images/Pasted image 20240423181859.png",
+    "Images/Pasted image 20240423181533.png",
+    "Indonesian II/11.1.md",
+    "Daily/2024-04-23.md",
+    "Indonesian II/10.2.md",
+    "Daily/2024-04-16.md",
+    "Indonesian II/10.1.md",
     "Long-Term.md",
+    "Daily/2024-04-11.md",
+    "Chinese.md",
+    "misc/Internships seminar by CollegeBoard.md",
+    "Red Sun in the Sky.md",
+    "Red Sun in the Sky - R.md",
     "Godot/Game stuff.md",
     "Godot/Godot.md",
     "Chinese",
@@ -175,24 +188,13 @@
     "Images/Pasted image 20240402195423.png",
     "Images/Pasted image 20240402193434.png",
     "Indonesian II/9.1.md",
-    "Indonesian II/8.2.md",
     "Images/Pasted image 20240402185427.png",
     "Images/Pasted image 20240402184143.png",
     "Images/Pasted image 20240402181858.png",
-    "Indonesian II/8.1.md",
     "Images/Pasted image 20240326190434.png",
     "Images/Pasted image 20240326185401.png",
-    "Indonesian II/7.1.1 Group Work.md",
     "Images/Pasted image 20240206184132.png",
     "Images/Pasted image 20240206183301.png",
-    "Images/Pasted image 20231217145424.png",
-    "Daily/2024-03-26.md",
-    "Indonesian II/7.2.md",
-    "Indonesian II/7.1.md",
-    "Indonesian II/7.1_ Chat.md",
-    "Indonesian II/1.2.md",
-    "Indonesian II/5.2.md",
-    "Indonesian II/6.2.md",
     "Godot",
     "Untitled.canvas"
   ]
