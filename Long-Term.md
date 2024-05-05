@@ -39,11 +39,9 @@ jewelry is cheaper and better quality in Asia, take a trip and save money
 #### living
 wake up early, prepare everything, wake up A and cuddle for an hour before leaving?
 
+Brown rice goes bad much faster than white rice
 
-##### Random tricks:
-Tooth pick flick https://www.youtube.com/shorts/lPhsNxlXVt8?feature=share
+### cooking
+sweet soysauce (kecap manis), vegetable oil, butter, kewpie mayonnaise, eggs
 
-
-### mental health
-https://screening.mhanational.org/content/how-can-i-get-help-without-my-family-knowing/?layout=mhats,actions_h
-"ohio mental health consent minor"
+banh mi
