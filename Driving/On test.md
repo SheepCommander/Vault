@@ -15,3 +15,8 @@ Hours driven with the school are separate from 50 hours of practice
 https://drive.google.com/file/d/17hEEqorETiIwrF3cNswQana3P6gnF37u/view
 https://dol.wa.gov/sites/default/files/2022-11/driverguide-en.pdf
 https://classroom.google.com/u/3/c/NjQ0ODAyMzcyNzg0
+  https://us02web.zoom.us/j/86752757792
+Discoutn code for Driving Exams: TDEUPGRADE
+
+Flashing yellow = Yield
+Yellow = Stop if can
