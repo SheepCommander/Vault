@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eda82c53cf56fa36",
+        "id": "017d0d8bf68a85df",
         "type": "tabs",
         "children": [
           {
-            "id": "3544f8edf53ede16",
+            "id": "566f25b4282dc5a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indonesian II/13.2.md",
+                "file": "Indonesian II/6.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indonesian II/13.2.md",
+                "file": "Indonesian II/6.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indonesian II/13.2.md",
+                "file": "Indonesian II/6.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indonesian II/13.2.md"
+                "file": "Indonesian II/6.2.md"
               }
             }
           }
@@ -145,17 +145,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "3544f8edf53ede16",
+  "active": "566f25b4282dc5a4",
   "lastOpenFiles": [
-    "Indonesian II/13.1.md",
+    "Indonesian II/_General.md",
+    "Images/Pasted image 20240507181949.png",
+    "Images/Pasted image 20240505125318.png",
+    "Images/Pasted image 20240312195728.png",
+    "Images/Pasted image 20240206183301.png",
+    "Images/Pasted image 20231217145424.png",
+    "Images/Pasted image 20231217145414.png",
+    "Images/Pasted image 20231217145408.png",
+    "Daily/2024-05-09.md",
     "Indonesian II/13.2.md",
+    "Indonesian II/13.1.md",
     "Indonesian II/5.1.1.md",
     "Untitled.canvas",
     "Images/Pasted image 20240507181955.png",
-    "Images/Pasted image 20240507181949.png",
     "Indonesian II_",
     "Images/Pasted image 20240507181750.png",
     "Images/Pasted image 20240507181714.png",
@@ -164,13 +173,7 @@
     "Driving/Fill in blanks.md",
     "Daily/2024-05-05.md",
     "Driving/1.4 Sun.md",
-    "Images/Pasted image 20240505134133.png",
-    "Images/Pasted image 20240505133208.png",
     "Driving/1.3 Sun.md",
-    "Images/Pasted image 20240505131755.png",
-    "Images/Pasted image 20240505131752.png",
-    "Images/Pasted image 20240505130320.png",
-    "Images/Pasted image 20240505130202.png",
     "Driving/1.2 Sat.md",
     "Driving/1.1 Sat.md",
     "Daily/2024-05-04.md",
@@ -187,8 +190,6 @@
     "Chinese.md",
     "misc/Internships seminar by CollegeBoard.md",
     "Red Sun in the Sky.md",
-    "Red Sun in the Sky - R.md",
-    "Godot/Game stuff.md",
     "Chinese",
     "Japanese",
     "misc",
