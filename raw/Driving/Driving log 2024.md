@@ -8,3 +8,8 @@ I drove half an hour at evening from 8:30pm to 9:02pm with my dad in the passeng
 We switched for a while then switched back. 
 I drove again at night for 20 minutes from 9:22 to 9:43
 
+#### Wednesday, May 15th
+I drove 10 minutes from 6:41pm to 6:51pm with my dad in the passenger seat.
+
+I then drove 5 minutes from 
+
