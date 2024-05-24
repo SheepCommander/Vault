@@ -11,12 +11,8 @@
             "id": "c55df48bf815d1bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Driving/On test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Driving/On test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Driving/On test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Driving/On test.md"
+                "file": "Daily/2024-05-24.md"
               }
             }
           }
@@ -149,8 +143,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c55df48bf815d1bc",
+  "active": "e87a6e89191f9ce0",
   "lastOpenFiles": [
+    "raw/Daily/2024-05-24.md",
     "Driving/Fill in blanks.md",
     "Driving/Driving log 2024.md",
     "Driving/Driving log.md",
@@ -186,7 +181,6 @@
     "raw/Images/Pasted image 20240512122702.png",
     "raw/Images/Pasted image 20240512122643.png",
     "raw/Images/Pasted image 20240512122607.png",
-    "raw/Driving/2.1 Sun.md",
     "raw/Images/Pasted image 20240505131752.png",
     "Untitled.canvas",
     "Indonesian II_",
