@@ -11,8 +11,12 @@
             "id": "c55df48bf815d1bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "raw/Daily/2024-05-24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/Daily/2024-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/Daily/2024-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-24.md"
+                "file": "raw/Daily/2024-05-24.md"
               }
             }
           }
@@ -143,8 +149,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e87a6e89191f9ce0",
+  "active": "c55df48bf815d1bc",
   "lastOpenFiles": [
+    "Scholarships.md",
+    "Red Sun in the Sky.md",
+    "Long-Term.md",
+    "Daily/2024-05-24.md",
     "raw/Daily/2024-05-24.md",
     "Driving/Fill in blanks.md",
     "Driving/Driving log 2024.md",
@@ -152,14 +162,10 @@
     "Driving/5.2 Sun.md",
     "raw/Driving/Driving log 2024.md",
     "Driving/5.1 Sun - Test.md",
-    "Daily/2024-05-24.md",
     "raw/Driving/On test.md",
     "Driving test.md",
     "raw",
     "raw/Daily/2024-05-19.md",
-    "Long-Term.md",
-    "Scholarships.md",
-    "Red Sun in the Sky.md",
     "raw/Chinese/Chinese 1.md",
     "raw/Driving/1.1 Sat.md",
     "raw/Driving/2.2 Sun.md",
