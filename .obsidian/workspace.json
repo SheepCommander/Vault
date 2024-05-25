@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af180c49c27a3a68",
+        "id": "6a666751ee50b479",
         "type": "tabs",
         "children": [
           {
-            "id": "c55df48bf815d1bc",
+            "id": "50f88f21e24bb840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Daily/2024-05-24.md",
+                "file": "raw/Daily/2024-05-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Daily/2024-05-24.md",
+                "file": "raw/Daily/2024-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Daily/2024-05-24.md",
+                "file": "raw/Daily/2024-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Daily/2024-05-24.md"
+                "file": "raw/Daily/2024-05-25.md"
               }
             }
           }
@@ -149,13 +149,15 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c55df48bf815d1bc",
+  "active": "50f88f21e24bb840",
   "lastOpenFiles": [
+    "raw/Daily/2024-05-25.md",
+    "raw/Driving/9.1.md",
+    "raw/Daily/2024-05-24.md",
     "Scholarships.md",
     "Red Sun in the Sky.md",
     "Long-Term.md",
     "Daily/2024-05-24.md",
-    "raw/Daily/2024-05-24.md",
     "Driving/Fill in blanks.md",
     "Driving/Driving log 2024.md",
     "Driving/Driving log.md",
@@ -176,11 +178,9 @@
     "raw/Driving/5.2 Sun.md",
     "raw/Driving/1.2 Sat.md",
     "raw/Daily/2024-03-12.md",
-    "raw/Daily/2024-05-12.md",
     "raw/Images/Pasted image 20240512132848.png",
     "raw/Images/Pasted image 20240512132657.png",
     "raw/Images/Pasted image 20240512132612.png",
-    "raw/Driving/5.1 Sun - Test.md",
     "raw/Images/Pasted image 20240512122853.png",
     "raw/Images/Pasted image 20240512122746.png",
     "raw/Images/Pasted image 20240512122725.png",
