@@ -18,5 +18,7 @@ https://classroom.google.com/u/3/c/NjQ0ODAyMzcyNzg0
   https://us02web.zoom.us/j/86752757792
 Discoutn code for Driving Exams: TDEUPGRADE
 
+https://app.zoom.us/wc/86752757792/join?fromPWA=1&_x_zm_rtaid=xDktJreEROSuAtCKkrP_8g.1716594463513.3de6ca10230448b8dfba57ff6946ff16&_x_zm_rhtaid=692
+
 Flashing yellow = Yield
 Yellow = Stop if can
