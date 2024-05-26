@@ -2,9 +2,6 @@ Test #2: https://docs.google.com/forms/d/e/1FAIpQLSdDUu2qr-_l7FaAoNrcs_NTBn04XOK
 Score 17/20: https://docs.google.com/forms/d/e/1FAIpQLSdDUu2qr-_l7FaAoNrcs_NTBn04XOK7gS6YLd4QHw9vMLJBag/viewscore?viewscore=AE0zAgDo2xTCJuODwxBGvGj0KnAVpDU7LeW8kg3-DpMVbg_7pV2IJYWG3kpnAo2EaojtaWA
 
 Question 1 - When making a turn or lane change, you should signal ____ feet before turning. *
-
-1 point
-
 50 feet
 
 100 feet
@@ -212,7 +209,3 @@ Yield to passing vehicles
 Yield to vehicles on your left at a 4 way stop
 
 Yield when leaving driveways or alleys
-
-Submit
-
-Clear form
