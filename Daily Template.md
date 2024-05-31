@@ -38,5 +38,9 @@ Driver Ed obsidian notes yet? - 20m
 
 REGISTERED RS FALL CLASSES yet? - 20m
 
+SAT Math obsidian notes - 30m once
+SAT Reading - daily 20m
+key club & schoolhouse.world
+
 ---
 arii
