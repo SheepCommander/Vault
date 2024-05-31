@@ -13,6 +13,7 @@ AP Phys 1: grade:4,5	=PHYS 114, 117	4, 1	NSc, RSN
 AP Calc AB: 3,4,5	MATH 124	5	NSc, RSN
 AP Calc BC: 4,5	MATH 124, 125	5,5	NSc, RSN
 AP Lang: 3,4,5	ENGL 106	5
+AP USH: 4,5	HSTAA 101	5	SSc
 
 AP JP: grade:5    =JAPAN 133, 231, 232	5,5,5	A&H*, FL
 AP CS A only worth CSE 121, credit 4
