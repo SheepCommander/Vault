@@ -17,17 +17,16 @@ AP Lang: 3,4,5	ENGL 106	5
 AP JP: grade:5    =JAPAN 133, 231, 232	5,5,5	A&H*, FL
 AP CS A only worth CSE 121, credit 4
 
-## MIT Transfer of Credit
+## MIT
 https://registrar.mit.edu/registration-academics/transfer-credit
 https://firstyear.mit.edu/academics-exploration/ap-transfer-credit/
-
-### MIT AP
+#### MIT AP
 https://firstyear.mit.edu/academics-exploration/ap-transfer-credit/advanced-placement/
 
-### MIT Community College
+#### MIT Community College
 https://firstyear.mit.edu/academics-exploration/ap-transfer-credit/transfer-credit/
 
-### MIT Grad Requirements
+#### MIT Grad Requirements
 https://registrar.mit.edu/registration-academics/academic-requirements/graduate-requirements
 Master
 Doctoral
@@ -40,17 +39,17 @@ Faculty members review each course submitted for credit on an individual basis. 
 
 https://catalog.caltech.edu/current/information-for-undergraduate-students/admission-to-upper-classes-by-transfer/#transfer-of-credit
 
-### Caltech APs
+#### Caltech APs
 College credit for AP or IB classes is not automatic. Course credit and/or placement in an accelerated program is sometimes granted as deemed appropriate by the department faculty.
 The awarding of Caltech course credit takes place at the time of registration each fall.
 
 https://catalog.caltech.edu/current/information-for-undergraduate-students/admission-to-upper-classes-by-transfer/#transfer-of-credit
 
-### Caltech grad requirements
+#### Caltech grad requirements
 >1.9gpa, 486 units, 
 https://catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/core-institute-requirements-all-options/
 
-### Caltech admission
+#### Caltech admission
 Additional options:
 - Research paper, abstract, or publication (citation if published, letter of evaluation, and research description required)
 - Maker portfolio
