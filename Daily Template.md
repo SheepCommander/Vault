@@ -1,0 +1,40 @@
+Total minimum: 22m
+- [ ] [Voice Training](https://buymeacoffee.com/alyssavt/how-i-start-voice-training-start-here) - 15m
+	- [ ] 5~10 minutes Voice Training
+	- [ ] 5~10 minutes Voice Training
+	- [ ] 5~10 minutes Voice Training
+- [ ] Flexibility - 5m
+	- [ ] 2x 30 sec W sit
+	- [ ] 2x 30 sec front split L
+	- [ ] 2x 30 sec front split R
+	- [ ] 2x 30 sec side split
+	- [ ] 2x 30 sec forward fold
+	- [ ] 
+- [ ] Strength - 2m
+	- [ ] Fire hydrant & whatever...
+- [ ] Sketch Krita devart - 2m
+- [ ] Osu - 20m - 10 full passes
+- [ ] Signalis - 20m
+	- [ ] APUSH learn? - X min [here](https://youtu.be/jqf_c9Pw8gs)
+- [ ] Calc - 20m
+- [ ] cs50 - 20m
+
+- [ ] Shower + Lotion - 30m
+- [ ] FACE - 0m
+- [ ] Dental - 5m
+---
+
+Skincare yet? - 20m
+Cuticle pusher yet? - amazon
+Depilatory yet? - 20m
+
+Nutritional yet? - 20m
+
+CalTech & MIT equivalency research yet? - 20m
+
+PreCalc notes yet? - 20m
+Driver Ed notes yet? - 20m
+
+REGISTERED RS FALL CLASSES yet? - 20m
+
+---

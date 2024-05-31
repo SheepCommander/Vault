@@ -1,4 +1,5 @@
 {
   "folder": "raw/Daily",
-  "autorun": true
+  "autorun": true,
+  "template": "Daily Template"
 }
