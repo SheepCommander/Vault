@@ -1,7 +1,7 @@
 ### SAT
 - UW: Considered, not required
 - Caltech: "[will not be considered](https://catalog.caltech.edu/current/information-for-undergraduate-students/admission-to-the-first-year-class/#standardized-exams) in the application review process."
-- MIT:
+- MIT: REQUIRED. Also consider SAT Essay section, but not reuqired. **Strong emphasis on students being capable of good communication.**
 
 ## UW Transfer
 #### SCC
@@ -21,6 +21,7 @@ AP CS A only worth CSE 121, credit 4
 ## MIT
 https://registrar.mit.edu/registration-academics/transfer-credit
 https://firstyear.mit.edu/academics-exploration/ap-transfer-credit/
+MIT EE & CS https://catalog.mit.edu/schools/engineering/electrical-engineering-computer-science/
 #### MIT AP
 https://firstyear.mit.edu/academics-exploration/ap-transfer-credit/advanced-placement/
 
