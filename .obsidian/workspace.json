@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
+                "file": "raw/Skiing/Mohan clinic 3~4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "raw/Skiing/Mohan clinic 3~4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "raw/Skiing/Mohan clinic 3~4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "raw/Skiing/Mohan clinic 3~4.md"
               }
             }
           }
@@ -151,35 +151,36 @@
   },
   "active": "83289019e41bba0c",
   "lastOpenFiles": [
-    "lazygit.exe",
+    "raw/Skiing/Mohan overview.md",
+    "raw/Skiing/Mohan clinic 3~4.md",
+    "raw/Skiing/Mohan clinic 1.md",
+    "raw/Skiing/Mohan cards review.md",
+    "raw/SAT/_Math.md",
+    "raw/misc/Why This College.md",
+    "raw/misc/Totalitarianism.md",
+    "raw/misc/Internships seminar by CollegeBoard.md",
+    "raw/Japanese/Japanese.md",
+    "raw/misc/Egoism.md",
+    "raw/Chinese/Chinese.md",
+    "raw/Japanese/Pitch Accent Apps.md",
+    "raw/Godot/Game stuff.md",
+    "raw/Godot/Godot.md",
+    "raw/Daily/2023-12-27.md",
+    "raw/Daily/2024 Jan Socratic Seminar.md",
+    "raw/Chinese/Chinese 1.md",
+    "Reduce video file size.md",
     "Long-Term.md",
+    "Daily Template.md",
+    "Git on Android.md",
+    "raw/Driving/On test.md",
+    "Red Sun in the Sky.md",
+    "raw/Daily/2024-05-31.md",
+    "lazygit.exe",
     "Scholarships.md",
     "raw/Driving/2.1 Sun.md",
     "Images/Pasted image 20240505125525.png",
-    "raw/Driving/1.3 Sun.md",
-    "raw/Driving/1.2 Sat.md",
-    "raw/Indonesian II/11.1.md",
     "Images/Pasted image 20240423181533.png",
-    "raw/Indonesian II/13.1.md",
-    "raw/Indonesian II/13.2.md",
-    "raw/Indonesian II/10.1.md",
-    "raw/Indonesian II/6.1.md",
-    "raw/Indonesian II/1.1.md",
-    "raw/Indonesian II/1.2.md",
     "Images/Pasted image 20240206190135.png",
-    "raw/Daily/2024-05-31.md",
-    "raw/Daily/2024-05-30.md",
-    "Daily Template.md",
-    "Red Sun in the Sky.md",
-    "raw/Driving/License Requirements.md",
-    "raw/Driving/1.1 Sat.md",
-    "raw/Driving/Driving test.md",
-    "raw/Driving/10.1.md",
-    "raw/Driving/Fill in blanks.md",
-    "raw/Driving/On test.md",
-    "raw/Driving/9.1.md",
-    "raw/Driving/5.2 Sun.md",
-    "raw/Daily/2024-05-26.md",
     "raw",
     "raw/Images/Pasted image 20240512132848.png",
     "raw/Images/Pasted image 20240512132657.png",
@@ -196,7 +197,6 @@
     "raw/misc",
     "raw/Stretch _ Exercise/Total Hamstring Flexibility - V2.pdf",
     "raw/Stretch _ Exercise",
-    "raw/Stretch _ Exercise/Total Posture Mobility - V2.pdf",
-    "Total Posture Mobility - V2.pdf.crdownload"
+    "raw/Stretch _ Exercise/Total Posture Mobility - V2.pdf"
   ]
 }

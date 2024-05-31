@@ -28,10 +28,7 @@ add cs50 to dailys at some point - 20m
 Skincare yet? - 20m
 Cuticle pusher yet? - amazon
 Depilatory yet? - 20m
-
 Nutritional yet? - 20m
-
-CalTech & MIT equivalency research yet? - 20m
 
 PreCalc obsidian notes yet? - 20m
 Driver Ed obsidian notes yet? - 20m
@@ -41,6 +38,11 @@ REGISTERED RS FALL CLASSES yet? - 20m
 SAT Math obsidian notes - 30m once
 SAT Reading - daily 20m
 key club & schoolhouse.world
+
+scholarships
+Japanese
+Japanese Ari
+Psych Course?
 
 ---
 arii
