@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Daily/2024-05-30.md",
+                "file": "Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Daily/2024-05-30.md",
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Daily/2024-05-30.md",
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Daily/2024-05-30.md"
+                "file": "Daily Template.md"
               }
             }
           }
@@ -151,11 +151,26 @@
   },
   "active": "83289019e41bba0c",
   "lastOpenFiles": [
+    "lazygit.exe",
     "Long-Term.md",
-    "Daily Template.md",
-    "raw/Daily/2024-05-30.md",
-    "Red Sun in the Sky.md",
     "Scholarships.md",
+    "raw/Driving/2.1 Sun.md",
+    "Images/Pasted image 20240505125525.png",
+    "raw/Driving/1.3 Sun.md",
+    "raw/Driving/1.2 Sat.md",
+    "raw/Indonesian II/11.1.md",
+    "Images/Pasted image 20240423181533.png",
+    "raw/Indonesian II/13.1.md",
+    "raw/Indonesian II/13.2.md",
+    "raw/Indonesian II/10.1.md",
+    "raw/Indonesian II/6.1.md",
+    "raw/Indonesian II/1.1.md",
+    "raw/Indonesian II/1.2.md",
+    "Images/Pasted image 20240206190135.png",
+    "raw/Daily/2024-05-31.md",
+    "raw/Daily/2024-05-30.md",
+    "Daily Template.md",
+    "Red Sun in the Sky.md",
     "raw/Driving/License Requirements.md",
     "raw/Driving/1.1 Sat.md",
     "raw/Driving/Driving test.md",
@@ -165,19 +180,7 @@
     "raw/Driving/9.1.md",
     "raw/Driving/5.2 Sun.md",
     "raw/Daily/2024-05-26.md",
-    "raw/Driving/Driving log 2024.md",
-    "raw/Daily/2024-05-25.md",
-    "raw/Daily/2024-05-24.md",
-    "Daily/2024-05-24.md",
-    "Driving/Fill in blanks.md",
-    "Driving/Driving log 2024.md",
-    "Driving/Driving log.md",
-    "Driving/5.2 Sun.md",
-    "Driving/5.1 Sun - Test.md",
-    "Driving test.md",
     "raw",
-    "raw/Daily/2024-05-19.md",
-    "raw/Chinese/Chinese 1.md",
     "raw/Images/Pasted image 20240512132848.png",
     "raw/Images/Pasted image 20240512132657.png",
     "raw/Images/Pasted image 20240512132612.png",
@@ -185,9 +188,6 @@
     "raw/Images/Pasted image 20240512122746.png",
     "raw/Images/Pasted image 20240512122725.png",
     "raw/Images/Pasted image 20240512122702.png",
-    "raw/Images/Pasted image 20240512122643.png",
-    "raw/Images/Pasted image 20240512122607.png",
-    "raw/Images/Pasted image 20240505131752.png",
     "Untitled.canvas",
     "Indonesian II_",
     "raw/Driving",
