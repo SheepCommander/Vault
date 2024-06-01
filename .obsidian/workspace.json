@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "raw/Daily/2024-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "raw/Daily/2024-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "raw/Daily/2024-05-31.md"
               }
             }
           },
@@ -179,16 +178,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d5bb784926c09db",
+  "active": "711e65e14ae9db10",
   "lastOpenFiles": [
-    "raw/Daily/2024-05-31.md",
     "Daily Template.md",
-    "raw/Daily/2024-05-30.md",
-    "Reduce video file size.md",
-    "Git on Android.md",
-    "Driving log 2024.md",
     "_Gen Notes.md",
+    "Dev/Godot.md",
+    "SAT/Math.md",
     "College/MIT.md",
+    "raw/SAT/_Math.md",
+    "raw/Daily/2024-05-31.md",
+    "Dev",
+    "Driving log 2024.md",
+    "raw/Daily/2024-05-30.md",
+    "Dev/Reduce video file size.md",
+    "Dev/Git on Android.md",
     "SAT/_Notes.md",
     "College/Why This College.md",
     "College/Caltech.md",
@@ -205,9 +208,6 @@
     "raw/Driving/12.1.md",
     "raw/Images/Pasted image 20240531173046.png",
     "raw/misc/Internships seminar by CollegeBoard.md",
-    "raw/misc/Chinese.md",
-    "raw/Indonesian II/9.2.md",
-    "raw/Indonesian II/8.1.md",
     "SAT",
     "College",
     "Untitled.canvas",
@@ -226,7 +226,6 @@
     "raw/Driving",
     "raw/Chinese",
     "raw/misc/Japanese",
-    "raw/misc",
-    "raw/Stretch _ Exercise/Total Hamstring Flexibility - V2.pdf"
+    "raw/misc"
   ]
 }
