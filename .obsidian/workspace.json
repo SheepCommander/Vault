@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a6f37e1f9097f2",
+        "id": "72679c80dd5fd550",
         "type": "tabs",
         "children": [
           {
-            "id": "711e65e14ae9db10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Godot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5bb784926c09db",
+            "id": "6728c0c0bffcdaca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd7a34962de2d17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/Daily/2024-06-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Godot.md",
+                "file": "raw/Daily/2024-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Godot.md",
+                "file": "raw/Daily/2024-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Godot.md"
+                "file": "raw/Daily/2024-06-01.md"
               }
             }
           },
@@ -178,16 +179,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "711e65e14ae9db10",
+  "active": "dd7a34962de2d17c",
   "lastOpenFiles": [
+    "Dev/Godot.md",
+    "raw/Daily/2024-06-01.md",
     "Dev/Git on Android.md",
-    "College/UW.md",
-    "Driving log 2024.md",
-    "SAT/Math.md",
+    "Dev/Godot Tips.md",
     "Daily Template.md",
     "raw/Daily/2024-05-31.md",
     "_Gen Notes.md",
-    "Dev/Godot.md",
+    "College/Admission-UW-MIT-Caltech.md",
+    "Driving log 2024.md",
+    "College/UW.md",
+    "SAT/Math.md",
     "College/MIT.md",
     "raw/SAT/_Math.md",
     "Dev",
@@ -196,7 +200,6 @@
     "SAT/_Notes.md",
     "College/Why This College.md",
     "College/Caltech.md",
-    "College/Admission-UW-MIT-Caltech.md",
     "College/_Scholarships.md",
     "College/_Notes.md",
     "raw/Driving/On test.md",
@@ -205,9 +208,7 @@
     "raw/Driving/Driving test.md",
     "raw/Driving/License Requirements.md",
     "raw/Driving/Fill in blanks.md",
-    "raw/Driving/12.1.md",
     "raw/Images/Pasted image 20240531173046.png",
-    "raw/misc/Internships seminar by CollegeBoard.md",
     "SAT",
     "College",
     "Untitled.canvas",
