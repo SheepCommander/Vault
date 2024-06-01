@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/UW.md",
+                "file": "Driving/Move Over or Slow Down Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/UW.md",
+                "file": "Driving/Move Over or Slow Down Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/UW.md",
+                "file": "Driving/Move Over or Slow Down Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/UW.md"
+                "file": "Driving/Move Over or Slow Down Law.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "6728c0c0bffcdaca",
   "lastOpenFiles": [
+    "raw/Daily/2024-06-01.md",
+    "Driving/Move Over or Slow Down Law.md",
+    "Driving",
     "College/MIT.md",
     "Dev/Git on Android.md",
     "Dev/Reduce video file size.md",
@@ -179,7 +182,6 @@
     "SAT/Math.md",
     "College/_Scholarships.md",
     "College/_Notes.md",
-    "raw/Daily/2024-06-01.md",
     "College/Admission-UW-MIT-Caltech.md",
     "raw/Daily/2024-05-31.md",
     "Daily Template.md",
@@ -194,7 +196,6 @@
     "raw/Driving/5.2 Sun.md",
     "raw/misc/Totalitarianism.md",
     "raw/Driving/Driving test.md",
-    "raw/Driving/License Requirements.md",
     "raw/Images/Pasted image 20240531173046.png",
     "SAT",
     "College",
@@ -213,7 +214,6 @@
     "Indonesian II_",
     "raw/Driving",
     "raw/Chinese",
-    "raw/misc/Japanese",
-    "raw/misc"
+    "raw/misc/Japanese"
   ]
 }
