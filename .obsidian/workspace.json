@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Daily/2024-06-01.md",
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Daily/2024-06-01.md",
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +137,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Daily/2024-06-01.md"
+                "file": "Daily Template.md"
               }
-            }
-          },
-          {
-            "id": "75ac9b9a1d9d5d55",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -157,13 +148,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "75ac9b9a1d9d5d55",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd7a34962de2d17c",
+  "active": "6728c0c0bffcdaca",
   "lastOpenFiles": [
-    "Dev/Godot.md",
     "raw/Daily/2024-06-01.md",
+    "Dev/Godot.md",
     "Dev/Git on Android.md",
     "Dev/Godot Tips.md",
     "Daily Template.md",

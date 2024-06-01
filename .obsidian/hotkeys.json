@@ -7,7 +7,7 @@
       "key": "."
     }
   ],
-  "obsidian-git:commit": [
+  "obsidian-git:commit-push-specified-message": [
     {
       "modifiers": [
         "Alt",
