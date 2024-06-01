@@ -32,11 +32,9 @@ Nutritional yet? - 20m
 
 PreCalc obsidian notes yet? - 20m
 Driver Ed obsidian notes yet? - 20m
+SAT Math obsidian notes - 30m once
 
 REGISTERED RS FALL CLASSES yet? - 20m
-
-SAT Math obsidian notes - 30m once
-key club & schoolhouse.world
 
 Extra dailys:
 - [ ] cs50 - 20m

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/MIT.md",
+                "file": "raw/Daily/2024-05-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d5bb784926c09db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/MIT.md",
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/MIT.md",
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/MIT.md"
+                "file": "Daily Template.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,21 +179,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "711e65e14ae9db10",
+  "active": "4d5bb784926c09db",
   "lastOpenFiles": [
-    "SAT/_Notes.md",
-    "_Gen Notes.md",
-    "Driving log 2024.md",
+    "raw/Daily/2024-05-31.md",
+    "Daily Template.md",
+    "raw/Daily/2024-05-30.md",
     "Reduce video file size.md",
     "Git on Android.md",
-    "Daily Template.md",
+    "Driving log 2024.md",
+    "_Gen Notes.md",
+    "College/MIT.md",
+    "SAT/_Notes.md",
     "College/Why This College.md",
     "College/Caltech.md",
     "College/Admission-UW-MIT-Caltech.md",
     "College/_Scholarships.md",
     "College/UW.md",
     "College/_Notes.md",
-    "College/MIT.md",
     "raw/Driving/On test.md",
     "raw/Driving/5.2 Sun.md",
     "raw/misc/Totalitarianism.md",
@@ -189,12 +204,10 @@
     "raw/Driving/Fill in blanks.md",
     "raw/Driving/12.1.md",
     "raw/Images/Pasted image 20240531173046.png",
-    "raw/Daily/2024-05-31.md",
     "raw/misc/Internships seminar by CollegeBoard.md",
     "raw/misc/Chinese.md",
     "raw/Indonesian II/9.2.md",
     "raw/Indonesian II/8.1.md",
-    "raw/Indonesian II/10.2.md",
     "SAT",
     "College",
     "Untitled.canvas",
