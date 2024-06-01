@@ -32,7 +32,6 @@ All of [PlayWithFurcifer's Things Abt Godot series](https://www.youtube.com/watc
 | %appdata%/Godot/                    | /app_userdata/project/Godot.log enable File Logging |
 | Make sure to check file s           | included in Game Export.                            |
 | PhysicalKey                         |                                                     |
-|                                     |                                                     |
 Ones I'll probs remember aren't included + Ones abt Shaders & TileMaps aren't included.
 
 https://github.com/HungryProton/scatter

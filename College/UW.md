@@ -1,12 +1,5 @@
-### UW Transfer - Community College SCC
-https://admit.washington.edu/apply/transfer/equivalency-guide/Shoreline/#LC_PE_NOTE
-https://admit.washington.edu/apply/transfer/equivalency-guide/Shoreline/#ART
-https://admit.washington.edu/apply/transfer/equivalency-guide/Shoreline/#ART_HISTORY
-- A maximum of 3 PE credits will be allowed.
-- CS 141 + CS 143 are good
-- 
-PE 188?
-
+#### UW Transfer - Community College SCC
+See the [spreadsheet](https://docs.google.com/spreadsheets/d/1CGnapdbWlhXV3ykprne7sRC8EJvby9z2/edit#gid=814839636) for more details
 ### UW Transfer - AP
 
 | AP Name    | Grade | College course(s)!  | Credits | Requirements fulfilled |

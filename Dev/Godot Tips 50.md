@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=6SWoPVIxJyQ
 
 2. Debugger / Misc / focused control!!
 3. Inspector - Arrow Keys (Ctrl-100  Shift-10  Alt-0.1)
-7. current_health = export_health
+7. var current_health = exported_health
 9. `owner` property of Node (*PackedScene* root)
 10. `func emit_level_up(param, param)` instead of level_up.emit()
 15. ctrl + shift + F11   *distraction free*
