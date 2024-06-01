@@ -3,7 +3,7 @@ Total minimum: 22m
 	- [ ] 5~10 minutes Voice Training
 	- [ ] 5~10 minutes Voice Training
 	- [ ] 5~10 minutes Voice Training
-- [ ] Flexibility - 5m
+- [ ] Flexibility - 6m
 	- [ ] 2x 30 sec W sit
 	- [ ] 2x 30 sec front split L
 	- [ ] 2x 30 sec front split R
@@ -31,8 +31,6 @@ Nutritional yet? - 20m
 PreCalc obsidian notes yet? - 20m
 Driver Ed obsidian notes yet? - 20m
 SAT Math obsidian notes - 30m
-
-REGISTERED RS FALL CLASSES yet? - 20m
 
 Extra dailys:
 - [ ] cs50 - 20m
