@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Daily/2024-06-01.md",
+                "file": "Dev/Godot Tips 50.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Daily/2024-06-01.md",
+                "file": "Dev/Godot Tips 50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Daily/2024-06-01.md",
+                "file": "Dev/Godot Tips 50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Daily/2024-06-01.md"
+                "file": "Dev/Godot Tips 50.md"
               }
             }
           },
@@ -168,11 +168,12 @@
   },
   "active": "6728c0c0bffcdaca",
   "lastOpenFiles": [
-    "raw/Daily/2024-05-31.md",
+    "Dev/Godot Tips.md",
+    "Dev/Godot Tips 50.md",
     "raw/Daily/2024-06-01.md",
+    "raw/Daily/2024-05-31.md",
     "Dev/Godot.md",
     "Dev/Git on Android.md",
-    "Dev/Godot Tips.md",
     "Daily Template.md",
     "_Gen Notes.md",
     "College/Admission-UW-MIT-Caltech.md",
@@ -194,7 +195,6 @@
     "raw/misc/Totalitarianism.md",
     "raw/Driving/Driving test.md",
     "raw/Driving/License Requirements.md",
-    "raw/Driving/Fill in blanks.md",
     "raw/Images/Pasted image 20240531173046.png",
     "SAT",
     "College",
