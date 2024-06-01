@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd7a34962de2d17c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "raw/Daily/2024-06-01.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "raw/Daily/2024-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "raw/Daily/2024-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "raw/Daily/2024-06-01.md"
               }
             }
           },
@@ -180,12 +168,12 @@
   },
   "active": "6728c0c0bffcdaca",
   "lastOpenFiles": [
+    "raw/Daily/2024-05-31.md",
     "raw/Daily/2024-06-01.md",
     "Dev/Godot.md",
     "Dev/Git on Android.md",
     "Dev/Godot Tips.md",
     "Daily Template.md",
-    "raw/Daily/2024-05-31.md",
     "_Gen Notes.md",
     "College/Admission-UW-MIT-Caltech.md",
     "Driving log 2024.md",
