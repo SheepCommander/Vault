@@ -5,11 +5,6 @@
 
 ***HOLOLIVE MASKS!!!***
 
-Shower routine: Acne body soap + shampoo... that's it..
-Skincare routine: Exfoliator, 
-Dental routine: Brush (no-toothpaste), floss, waterfloss, brush w/fluoride toothpaste or fluoride mouthwash
-Hair routine: Dryer... that's it...
-
 jewelry is cheaper and better quality in Asia, take a trip and save money
 
 #### living

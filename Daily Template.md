@@ -22,9 +22,9 @@ Total minimum: 22m
 - [ ] Shower + Lotion - 30m
 - [ ] FACE - 0m
 - [ ] Dental - 5m
----
-add cs50 to dailys at some point - 20m
 
+- [ ] Papa's letter
+---
 Skincare yet? - 20m
 Cuticle pusher yet? - amazon
 Depilatory yet? - 20m
@@ -36,10 +36,12 @@ Driver Ed obsidian notes yet? - 20m
 REGISTERED RS FALL CLASSES yet? - 20m
 
 SAT Math obsidian notes - 30m once
-SAT Reading - daily 20m
 key club & schoolhouse.world
 
-scholarships
+Extra dailys:
+- [ ] cs50 - 20m
+- [ ] SAT Reading - 20m
+
 Japanese
 Japanese Ari
 Psych Course?

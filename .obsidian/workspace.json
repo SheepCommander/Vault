@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git on Android.md",
+                "file": "College/MIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git on Android.md",
+                "file": "College/MIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git on Android.md",
+                "file": "College/MIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git on Android.md"
+                "file": "College/MIT.md"
               }
             }
           },
@@ -168,39 +168,40 @@
   },
   "active": "711e65e14ae9db10",
   "lastOpenFiles": [
-    "Long-Term.md",
+    "SAT/_Notes.md",
+    "_Gen Notes.md",
+    "Driving log 2024.md",
+    "Reduce video file size.md",
     "Git on Android.md",
     "Daily Template.md",
+    "College/Why This College.md",
+    "College/Caltech.md",
+    "College/Admission-UW-MIT-Caltech.md",
+    "College/_Scholarships.md",
+    "College/UW.md",
+    "College/_Notes.md",
+    "College/MIT.md",
+    "raw/Driving/On test.md",
+    "raw/Driving/5.2 Sun.md",
+    "raw/misc/Totalitarianism.md",
+    "raw/Driving/Driving test.md",
+    "raw/Driving/License Requirements.md",
+    "raw/Driving/Fill in blanks.md",
+    "raw/Driving/12.1.md",
+    "raw/Images/Pasted image 20240531173046.png",
+    "raw/Daily/2024-05-31.md",
     "raw/misc/Internships seminar by CollegeBoard.md",
     "raw/misc/Chinese.md",
     "raw/Indonesian II/9.2.md",
     "raw/Indonesian II/8.1.md",
     "raw/Indonesian II/10.2.md",
-    "raw/Indonesian II/6.2.md",
-    "raw/Indonesian II/7.1.1 Group Work.md",
-    "raw/Indonesian II/6.1.md",
-    "raw/Indonesian II/5.2.md",
-    "raw/Indonesian II/5.1.2.md",
-    "raw/Indonesian II/5.1.1.md",
-    "raw/Indonesian II/5.1.md",
-    "raw/Indonesian II/2.2.md",
-    "raw/Indonesian II/2.1.md",
-    "raw/Indonesian II/1.2.md",
-    "raw/Indonesian II/1.1.md",
-    "SAT/_Notes.md",
-    "College/UW.md",
-    "College/MIT.md",
-    "College/Caltech.md",
-    "College/_Notes.md",
-    "College/Admission-UW-MIT-Caltech.md",
-    "raw/Skiing/Mohan clinic 3~4.md",
     "SAT",
     "College",
     "Untitled.canvas",
     "lazygit.exe",
-    "Images/Pasted image 20240505125525.png",
-    "Images/Pasted image 20240423181533.png",
-    "Images/Pasted image 20240206190135.png",
+    "raw/Images/Pasted image 20240505125525.png",
+    "raw/Images/Pasted image 20240423181533.png",
+    "raw/Images/Pasted image 20240206190135.png",
     "raw",
     "raw/Images/Pasted image 20240512132848.png",
     "raw/Images/Pasted image 20240512132657.png",
@@ -208,7 +209,6 @@
     "raw/Images/Pasted image 20240512122853.png",
     "raw/Images/Pasted image 20240512122746.png",
     "raw/Images/Pasted image 20240512122725.png",
-    "raw/Images/Pasted image 20240512122702.png",
     "Indonesian II_",
     "raw/Driving",
     "raw/Chinese",

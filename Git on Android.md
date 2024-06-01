@@ -1,4 +1,4 @@
-1. https://termux.dev/en/
+https://termux.dev/en/
 ```
 pkg update && pkg upgrade && pkg install git && pkg install gh && termux-setup-storage && gh auth login && git config --global user.name "SheepPhone" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com"
 ```

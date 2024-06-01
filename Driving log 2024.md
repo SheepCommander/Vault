@@ -2,7 +2,6 @@
 created: 2024-05-11T21:02:41-07:00
 modified: 2024-05-22T21:28:12-07:00
 ---
-
 # Driving Log
 
 Overall count: 
@@ -23,3 +22,5 @@ We were driving to our church Midweek youthgroup
 I drove 10 minutes at night from 9:07pm to 9:22pm with my dad. 
 
 We were going from Albertson (3rd place books) to home
+
+### 
