@@ -11,6 +11,7 @@ Standard Deviation [stdDev()](https://education.ti.com/en/customer-support/knowl
 Lists
 - `[STAT][ENTER]`
 - L1 is x L2 is y
+- Press `[2nd][QUIT]` to leave the Editor
 - `[STAT]` arrow right to `[CALC]` and press `1:1-Var Stats` or `2:2-Var stats`
 ![](https://education.ti.com/images/kbase/c34538ss3.jpg)
 
