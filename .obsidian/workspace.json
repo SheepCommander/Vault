@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Precalc/_Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Precalc/_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Precalc/_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "Precalc/_Notes.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,9 +168,11 @@
   },
   "active": "c3b31152eafa546e",
   "lastOpenFiles": [
+    "Dev/Git on Android.md",
     "Precalc/_Notes.md",
-    "Daily Template.md",
+    "Precalc/Unit 2.md",
     "raw/Daily/2024-06-02.md",
+    "Daily Template.md",
     "raw/Daily/2024-06-01.md",
     "raw/Daily/2024-05-31.md",
     "Calc/_Notes.md",
@@ -196,8 +198,6 @@
     "raw/SAT/SAT - Reading Strats.md",
     "raw/SAT/_Writing summary.md",
     "raw/Images/Pasted image 20240601135326.png",
-    "raw/Driving/On test.md",
-    "raw/Driving/License Requirements.md",
     "Driving",
     "Dev",
     "raw/Images/Pasted image 20240531173046.png",
