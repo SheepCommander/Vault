@@ -5,11 +5,11 @@ To find standard deviation:
 - Add them all up
 
 Circle:
-(x - h)^2 + (x - k)^2 = r^2
+$$(x - h)^2 + (x - k)^2 = r^2$$
 
 SohCahToa is relative to the angle that you feed into the equation
 
-(u^2 - t^2) = (u+t)(u-t)
+$$(u^2 - t^2) = (u+t)(u-t)$$
 
 
 "H = 1.88L + 32.01"
