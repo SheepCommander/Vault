@@ -20,7 +20,7 @@ x^6 = 0
 Stoichiometry: 45/1 min/mile or 1/45 mile/min
 - [x] Percentages
 - [ ] One-variable data: distributions and measures of center and spread
-
+See [[Statistics]] and [[Calculator]]
 - [ ] Two-variable data: models and scatterplots
 
 - [ ] Probability and conditional probability

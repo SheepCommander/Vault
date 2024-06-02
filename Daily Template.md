@@ -15,8 +15,6 @@ Total minimum: 22m
 - [ ] Sketch Krita devart - 2m
 - [ ] Osu!std - 20m - 10 full passes
 - [ ] Osu!mania - 10m - have fun
-- [ ] Signalis - 20m
-	- [ ] APUSH learn? - X min [here](https://youtu.be/jqf_c9Pw8gs)
 - [ ] Calc - 20m
 
 - [ ] Shower + Lotion - 30m
@@ -24,15 +22,15 @@ Total minimum: 22m
 - [ ] Dental - 5m
 ---
 Skincare yet? - 20m
-Cuticle pusher yet? - amazon
 Depilatory yet? - 20m
 Nutritional yet? - 20m
 
-PreCalc obsidian notes yet? - 20m
-Driver Ed obsidian notes yet? - 20m
-SAT Math obsidian notes - 30m
+Driver Ed obsidian notes yet? - X hr
+Finish SAT Math obsidian notes - X hr
 
-Extra dailys:
+Dailys to be added later:
+- [ ] Signalis - 20m
+- [ ] APUSH learn? - X min [here](https://youtu.be/jqf_c9Pw8gs)
 - [ ] cs50 - 20m
 - [ ] SAT Reading - 20m
 
