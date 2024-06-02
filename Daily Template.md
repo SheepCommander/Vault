@@ -12,9 +12,11 @@ Total minimum: 22m
 	- [ ] 2x 30 sec forward fold sit
 - [ ] Strength - 2m
 	- [ ] Fire hydrant & whatever...
+
 - [ ] Sketch Krita devart - 2m
 - [ ] Osu!std - 20m - 10 full passes
 - [ ] Osu!mania - 10m - have fun
+
 - [ ] Calc - 20m
 
 - [ ] Shower + Lotion - 30m
@@ -24,6 +26,9 @@ Total minimum: 22m
 Skincare yet? - 20m
 Depilatory yet? - 20m
 Nutritional yet? - 20m
+Cuticle pusher? - 
+
+Add Internship stuff to calendar
 
 Driver Ed obsidian notes yet? - X hr
 Finish SAT Math obsidian notes - X hr
