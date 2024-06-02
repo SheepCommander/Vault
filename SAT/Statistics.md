@@ -14,6 +14,7 @@ Mode: The set of numbers that repeat the most. {2,2,2,5,5,5} mode = 2, 5
 Range: max - min
 
 Standard Deviation: Probs not on SAT!
+See [[Calculator]]
 ##### Questions:
 If 𝑥 is the average of 𝑚 and 9, 𝑦 is the average of 2𝑚 and 15, and 𝑧 is the average of 3𝑚 and 18, what is the average of 𝑥, 𝑦, and 𝑧 in terms of 𝑚?
 
