@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Daily/2024-05-31.md",
+                "file": "raw/Daily/2024-06-03.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dfa282342eb60f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-03 09.49.48.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "raw/Daily/2024-05-31.md",
+            "file": "Excalidraw/Drawing 2024-06-03 09.49.48.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "raw/Daily/2024-05-31.md",
+            "file": "Excalidraw/Drawing 2024-06-03 09.49.48.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "raw/Daily/2024-05-31.md"
+            "file": "Excalidraw/Drawing 2024-06-03 09.49.48.excalidraw.md"
           }
         }
       },
@@ -143,36 +154,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11edcbe4dab35878",
+  "active": "0dfa282342eb60f7",
   "lastOpenFiles": [
-    "raw/Daily/2024-06-01.md",
-    "Driving/Move Over or Slow Down Law.md",
-    "/Driving/Move Over or Slow Down Law.md",
+    "raw/Daily/2024-06-03.md",
+    "Excalidraw/Drawing 2024-06-03 09.49.48.excalidraw.md",
+    "Excalidraw",
+    "Life/Vaseline.md",
+    "/raw/Daily/2024-06-02.md",
+    "/raw/Daily/2024-06-01.md",
+    "/Precalc/_Notes.md",
+    "/Life/Vaseline.md",
+    "/Daily Template.md",
+    "Life",
+    "/Life",
+    "raw/Daily/2024-06-02.md",
+    "raw/Images/Pasted image 20240601135326.png",
+    "SAT/_Math.md",
+    "SAT/Statistics.md",
+    "SAT/Geometry.md",
+    "SAT/Calculator.md",
+    "Precalc/_Notes.md",
+    "Driving/Stars.md",
+    "Calc/_Notes.md",
+    "Calc/Limits.md",
+    "/raw/SAT/_Math.md",
+    "/raw/Images/Pasted image 20240601135326.png",
+    "/SAT/_Notes.md",
+    "/SAT/_Math.md",
+    "/SAT/Statistics.md",
+    "/SAT/Geometry.md",
+    "/SAT/Calculator.md",
+    "/Driving/Stars.md",
+    "/Calc/_Notes.md",
+    "/Calc/Limits.md",
+    "Precalc",
+    "Calc",
+    "/Precalc",
+    "/Calc",
     "Driving",
     "/Driving",
-    "raw/Daily/2024-05-31.md",
-    "Dev/Godot.md",
-    "raw/Driving/On test.md",
-    "raw/Driving/Driving test.md",
-    "raw/Driving/License Requirements.md",
-    "raw/Driving/1.4 Sun.md",
-    "College/Admission-UW-MIT-Caltech.md",
-    "SAT/Math.md",
-    "Driving log 2024.md",
-    "raw/Daily/2024-03-05.md",
-    "Untitled.md",
-    "Untitled",
-    "raw/Daily/2024-02-13.md",
-    "raw/Daily/2024-02-11.md",
-    "raw/Daily/2024-02-06.md",
-    "raw/Daily/2024-02-04.md",
-    "raw/Daily/2024-01-21.md",
-    "raw/Daily/2024-01-04.md",
-    "raw/Daily/2024 Jan Socratic Seminar.md",
-    "raw/Daily/2024-01-02.md",
-    "raw/Daily/2023-12-27.md",
-    "Dev/Git on Android.md",
-    "College/Why This College.md",
-    "College/UW.md"
+    "Untitled"
   ]
 }
