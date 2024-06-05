@@ -27,7 +27,7 @@ $y-y_1 = m(x-x_1)$ If u have point (10,4) and slope 2.049
 2. Find diagonal line from 10,4 to 3,-10.344
 - $m=(-10.344-4)/(3-10) = -14.344/-7 = 2.049$
 - $y-4 = 2.049(x-10)$ <- plug in transformations
-- find wen crosses y-axis x=0, now y=-16.4915
+- find when crosses y-axis x=0, now y=-16.4915
 
 - radar 10km in any direction (radius=10)
 - start from (12,8) end (-8,-14) @ 6km/hr
@@ -46,6 +46,5 @@ The perpendicular line's slope ($\perp$) is the negative reciprocal
 
 Original line: (-400, 300) to (100, 400)
 $$ m = [300-(-400)] / [-400 - 100] = -7/5$$
-Equation:
-$$ y - 300 = 1.4(x + 400) $$
-$$ y = 1.4x - 260$$
+Equation:  $y - 300 = 1.4(x + 400)$
+$$ y = 7/5x - 260$$

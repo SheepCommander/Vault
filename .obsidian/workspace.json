@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precalc/_Notes.md",
+                "file": "raw/Daily/2024-06-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precalc/_Notes.md",
+                "file": "raw/Daily/2024-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precalc/_Notes.md",
+                "file": "raw/Daily/2024-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precalc/_Notes.md"
+                "file": "raw/Daily/2024-06-04.md"
               }
             }
           },
@@ -168,8 +168,13 @@
   },
   "active": "c3b31152eafa546e",
   "lastOpenFiles": [
-    "Dev/Git on Android.md",
+    "Precalc/8-6.md",
+    "raw/Daily/2024-06-04.md",
+    "Precalc/8-5.md",
+    "Precalc/8-4.md",
     "Precalc/_Notes.md",
+    "raw/Daily/2024-06-03.md",
+    "Dev/Git on Android.md",
     "Precalc/Unit 2.md",
     "raw/Daily/2024-06-02.md",
     "Daily Template.md",
@@ -192,11 +197,6 @@
     "raw/SAT/_Math.md",
     "SAT/Statistics.md",
     "SAT/Geometry.md",
-    "Driving/Stars.md",
-    "Driving/Move Over or Slow Down Law.md",
-    "raw/SAT/_Reading summary.md",
-    "raw/SAT/SAT - Reading Strats.md",
-    "raw/SAT/_Writing summary.md",
     "raw/Images/Pasted image 20240601135326.png",
     "Driving",
     "Dev",
