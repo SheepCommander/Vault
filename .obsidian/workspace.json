@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8143563c7a00a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/Daily/2024-06-03.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Daily/2024-06-04.md",
+                "file": "raw/Daily/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Daily/2024-06-04.md",
+                "file": "raw/Daily/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Daily/2024-06-04.md"
+                "file": "raw/Daily/2024-06-03.md"
               }
             }
           },
@@ -166,14 +179,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3b31152eafa546e",
+  "active": "d8143563c7a00a38",
   "lastOpenFiles": [
-    "Precalc/8-6.md",
+    "conflict-files-obsidian-git.md",
+    "raw/Daily/2024-06-03.md",
     "raw/Daily/2024-06-04.md",
+    "Excalidraw/Drawing 2024-06-03 09.49.48.excalidraw.md",
+    "Excalidraw",
+    "College/Running Start.md",
+    "Precalc/8-6.md",
     "Precalc/8-5.md",
     "Precalc/8-4.md",
     "Precalc/_Notes.md",
-    "raw/Daily/2024-06-03.md",
     "Dev/Git on Android.md",
     "Precalc/Unit 2.md",
     "raw/Daily/2024-06-02.md",
@@ -194,9 +211,6 @@
     "Calc/Limits.md",
     "Calc",
     "raw/SAT/Failed summary 1.md",
-    "raw/SAT/_Math.md",
-    "SAT/Statistics.md",
-    "SAT/Geometry.md",
     "raw/Images/Pasted image 20240601135326.png",
     "Driving",
     "Dev",
@@ -213,7 +227,6 @@
     "raw/Images/Pasted image 20240512132657.png",
     "raw/Images/Pasted image 20240512132612.png",
     "raw/Images/Pasted image 20240512122853.png",
-    "raw/Images/Pasted image 20240512122746.png",
-    "Indonesian II_"
+    "raw/Images/Pasted image 20240512122746.png"
   ]
 }
