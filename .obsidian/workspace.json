@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Daily/2024-06-03.md",
+                "file": "Driving log 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Daily/2024-06-03.md",
+                "file": "Driving log 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Daily/2024-06-03.md",
+                "file": "Driving log 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Daily/2024-06-03.md"
+                "file": "Driving log 2024.md"
               }
             }
           },
@@ -166,18 +166,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3b31152eafa546e",
+  "active": "e87a6e89191f9ce0",
   "lastOpenFiles": [
-    "raw/Daily/2024-06-04.md",
+    "Life/Vaseline.md",
+    "raw/Precalc/4-7.md",
+    "Precalc/Untitled.md",
+    "raw/Precalc/3-11.md",
+    "raw/Precalc/2-10.md",
+    "raw/Precalc/5-12.md",
+    "raw/Precalc/8-1.md",
+    "raw/Precalc/6-14.md",
+    "raw/Precalc/7-6.md",
+    "raw/Precalc/_Notes.md",
+    "raw/Precalc/8-6.md",
+    "raw/Daily/2024-06-07.md",
     "raw/Daily/2024-06-03.md",
+    "raw/Daily/2024-06-04.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2024-06-03 09.49.48.excalidraw.md",
     "Excalidraw",
     "College/Running Start.md",
-    "Precalc/8-6.md",
-    "Precalc/8-5.md",
-    "Precalc/8-4.md",
-    "Precalc/_Notes.md",
+    "raw/Precalc/8-5.md",
+    "raw/Precalc/8-4.md",
     "Dev/Git on Android.md",
     "Precalc/Unit 2.md",
     "raw/Daily/2024-06-02.md",
@@ -185,19 +195,9 @@
     "raw/Daily/2024-06-01.md",
     "raw/Daily/2024-05-31.md",
     "Calc/_Notes.md",
-    "SAT/Calculator.md",
-    "Driving log 2024.md",
-    "_Gen Notes.md",
-    "Life/Vaseline.md",
-    "Dev/Godot Tips 50.md",
     "Life",
-    "SAT/_Notes.md",
-    "SAT/_Math.md",
-    "Dev/Godot.md",
-    "Precalc",
-    "Calc/Limits.md",
+    "raw/Precalc",
     "Calc",
-    "raw/SAT/Failed summary 1.md",
     "raw/Images/Pasted image 20240601135326.png",
     "Driving",
     "Dev",
