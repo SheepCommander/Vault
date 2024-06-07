@@ -1,0 +1,3 @@
+- Bearfoot Bistro (french, icecream, fancy)
+- Raisu (japanese, kotatsu)
+- Sodam chicken
