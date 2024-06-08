@@ -8,36 +8,47 @@ Flagger ahead?
 **What is the minimum amount of bodily injury liability insurance per person coverage required to drive in the state of Washington?**
 25,000
 
+
 **The legal BAC limit for alcohol for people 21 and over in state of Washington is...**
 0.08%
+
 
 **80% of all crash deaths could be prevented if who wore their seatbelts?**
 Backseat passengers
 
+
 **You must stay at least \____ feet behind an emergency vehicle with lights and/or sirens activated**
 500 feet
+
 
 **How long does it take for alcohol to reach your brain?**
 20-40 minutes
 
+
 **It is illegal to park closer than \____ feet to a railroad crossing**
 50
+
 
 **A bicycles front headlight should be visible up to \____ feet**
 500 feet
 
+
 **It is illegal to park closer than \____ feet to a stop sign**
 30 feet
+
 
 **It is illegal to pass another car...**
 In an intersection
 
+
 **Maximum speed limit of schoolzone in WA**
 20 MPH in WA
+
 
 **A flashing yellow arrow means you must yield to...**
 - Pedestrians
 - Oncoming traffic
+
 
 **At a four way stop, who must yield to whom?**
 The driver who did not stop first must yield to the driver who did stop fist and all drivers must yield to pedestrians

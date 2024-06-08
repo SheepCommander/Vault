@@ -1,3 +1,7 @@
+write here:
+
+- 
+---
 Total minimum: 22m
 - [ ] [Voice Training](https://buymeacoffee.com/alyssavt/how-i-start-voice-training-start-here) - 15m
 	- [ ] 5~10 minutes Voice Training
@@ -28,8 +32,6 @@ Depilatory yet? - 20m
 Nutritional yet? - 20m
 Cuticle pusher? - 
 
-Add Internship stuff to calendar
-
 Driver Ed obsidian notes yet? - X hr
 Finish SAT Math obsidian notes - X hr
 
@@ -39,11 +41,6 @@ Dailys to be added later:
 - [ ] cs50 - 20m
 - [ ] SAT Reading - 20m
 
-Japanese
-Japanese Ari
 Psych Course?
 
 BECOME [SAT TUTOR](https://schoolhouse.world/sat-bootcamp/tutor)
-
----
-arii

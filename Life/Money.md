@@ -1,0 +1,1 @@
+Jewelry is cheaper and better quality in Asia, take a trip and save money
