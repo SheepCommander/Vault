@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "72679c80dd5fd550",
+        "id": "e19f49a7b5049005",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b31152eafa546e",
+            "id": "2ba8abceaa30307e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-06-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47d9cddf678f3119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-06-11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-06-11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,11 +158,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47d9cddf678f3119",
+  "active": "2ba8abceaa30307e",
   "lastOpenFiles": [
+    "Daily/2024-06-08.md",
+    "Daily/2024-06-10.md",
     "Daily/2024-06-11.md",
     "Daily Template.md",
-    "Daily/2024-06-08.md",
     "Daily/2024-06-07.md",
     "Daily/2024-06-04.md",
     "Driving log 2024.md",
@@ -206,7 +186,6 @@
     "raw/Precalc/4-7.md",
     "Precalc/Untitled.md",
     "raw/Precalc/3-11.md",
-    "raw/Precalc/2-10.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
