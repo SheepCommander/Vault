@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e19f49a7b5049005",
+        "id": "72679c80dd5fd550",
         "type": "tabs",
         "children": [
           {
-            "id": "2ba8abceaa30307e",
+            "id": "c3b31152eafa546e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-06-07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-06-07.md"
+              }
             }
           },
           {
@@ -158,11 +166,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ba8abceaa30307e",
+  "active": "c3b31152eafa546e",
   "lastOpenFiles": [
-    "Daily/2024-06-08.md",
-    "Daily/2024-06-10.md",
-    "Daily/2024-06-11.md",
     "Daily Template.md",
     "Daily/2024-06-07.md",
     "Daily/2024-06-04.md",
@@ -186,6 +191,9 @@
     "raw/Precalc/4-7.md",
     "Precalc/Untitled.md",
     "raw/Precalc/3-11.md",
+    "raw/Precalc/2-10.md",
+    "raw/Precalc/5-12.md",
+    "raw/Precalc/8-1.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",

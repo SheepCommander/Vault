@@ -14,11 +14,14 @@ Total minimum: 22m
 	- [ ] 2x 30 sec side split
 	- [ ] 2x 30 sec forward fold stand
 	- [ ] 2x 30 sec forward fold sit
-- [ ] Thigh Exercises - 2m
+- [ ] Strength - 2m
+	- [ ] Fire hydrant & whatever...
 
 - [ ] Sketch Krita devart - 2m
 - [ ] Osu!std - 20m - 10 full passes
 - [ ] Osu!mania - 10m - have fun
+- [ ] Taisei/Touhou
+- [ ] Rabbit & Steel
 
 - [ ] Calc - 20m
 
