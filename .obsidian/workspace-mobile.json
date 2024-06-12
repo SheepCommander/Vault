@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/2024-06-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Template.md",
+            "file": "Daily/2024-06-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Template.md",
+            "file": "Daily/2024-06-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Template.md"
+            "file": "Daily/2024-06-12.md"
           }
         }
       },
@@ -145,6 +145,8 @@
   },
   "active": "0dfa282342eb60f7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Daily/2024-06-12.md",
     "Daily/2024-06-11.md",
     "Driving/_Stars.md",
     "Driving/Speed limits.md",
@@ -169,8 +171,6 @@
     "Driving/Signs to remember.md",
     "Daily/2024-06-03.md",
     "raw/Precalc/_Notes.md",
-    "raw/Precalc/8-6.md",
-    "raw/Precalc/8-5.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
