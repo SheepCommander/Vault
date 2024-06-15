@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-06-07.md",
+                "file": "Daily/2024-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-07.md",
+                "file": "Daily/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-07.md",
+                "file": "Daily/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-06-07.md"
+                "file": "Daily/2024-06-14.md"
               }
             }
           },
@@ -168,10 +168,12 @@
   },
   "active": "c3b31152eafa546e",
   "lastOpenFiles": [
+    "Daily/2024-06-12.md",
+    "Daily/2024-06-14.md",
     "Daily Template.md",
+    "Driving log 2024.md",
     "Daily/2024-06-07.md",
     "Daily/2024-06-04.md",
-    "Driving log 2024.md",
     "Life/Food Places.md",
     "Life/Vaseline.md",
     "_Gen Notes.md",
@@ -192,8 +194,6 @@
     "Precalc/Untitled.md",
     "raw/Precalc/3-11.md",
     "raw/Precalc/2-10.md",
-    "raw/Precalc/5-12.md",
-    "raw/Precalc/8-1.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
