@@ -3,6 +3,6 @@
 - Sodam chicken
 - Hiroki (individual cheese cake)
 - Truffle chocolate cake
-- hoklaidp tamen
+- hokkaido ramen santouka
 
 Brown rice goes bad much faster than white rice 

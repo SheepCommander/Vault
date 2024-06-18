@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Food Places.md",
+                "file": "College/MIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Life/Food Places.md",
+            "file": "College/MIT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Life/Food Places.md",
+            "file": "College/MIT.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Life/Food Places.md"
+            "file": "College/MIT.md"
           }
         }
       },
@@ -145,9 +145,10 @@
   },
   "active": "0dfa282342eb60f7",
   "lastOpenFiles": [
+    "Daily/2024-06-18.md",
+    "Life/Food Places.md",
     "Daily/2024-06-15.md",
     "Life/Cooking.md",
-    "Life/Food Places.md",
     "Daily/2024-06-14.md",
     "/Daily Template.md",
     "/Daily/2024-06-14.md",
@@ -170,7 +171,6 @@
     "/Driving/_Final Test.md",
     "/Daily/2024-06-07.md",
     "/Daily/2024-06-04.md",
-    "Daily/2024-06-08.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
