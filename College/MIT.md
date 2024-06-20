@@ -4,8 +4,8 @@ https://firstyear.mit.edu/academics-exploration/ap-transfer-credit/advanced-plac
 - NONE for AP Phys 1 or 2
 - NONE for anything below 5
 
-5 on AP Calc AB = enroll in accelerated calc sequence 18.01A/18.02A
-5 on AP Calc BC = credit for 18.01
+5 on AP Calc AB = *enroll* in accelerated calc sequence 18.01A/18.02A
+5 on AP Calc BC = *credit* for 18.01
 
 5 on AP Lang = 9 units of elective credit + Skip FEE (first year essay evaluation)
 5 on APUSH = 9 units of elective credit
