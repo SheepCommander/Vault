@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-06-14.md",
+                "file": "Daily/2024-06-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-14.md",
+                "file": "Daily/2024-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-14.md",
+                "file": "Daily/2024-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-06-14.md"
+                "file": "Daily/2024-06-21.md"
               }
             }
           },
@@ -168,6 +168,11 @@
   },
   "active": "3d90069f341fbb38",
   "lastOpenFiles": [
+    "Daily/2024-06-16.md",
+    "Daily/2024-06-21.md",
+    "Dev/Reduce video file size.md",
+    "Dev/Godot Tips.md",
+    "Daily/2023-12-27.md",
     "Daily/2024-06-14.md",
     "Daily/2024-06-12.md",
     "Daily Template.md",
@@ -188,12 +193,7 @@
     "Driving/Move Over or Slow Down Law.md",
     "Driving/_Stars.md",
     "Driving/_Final Test.md",
-    "Dev/Reduce video file size.md",
-    "Dev/Godot Tips.md",
     "raw/Precalc/4-7.md",
-    "Precalc/Untitled.md",
-    "raw/Precalc/3-11.md",
-    "raw/Precalc/2-10.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
