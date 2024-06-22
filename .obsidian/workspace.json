@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Convert Video.md",
+                "file": "Daily/2024-06-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Convert Video.md",
+                "file": "Daily/2024-06-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Convert Video.md",
+                "file": "Daily/2024-06-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Convert Video.md"
+                "file": "Daily/2024-06-22.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "4ed30fc797215fb6",
   "lastOpenFiles": [
+    "Dev/Convert Video.md",
+    "Daily/2024-06-22.md",
     "Dev/Git on Android.md",
     "Daily/2024-06-21.md",
-    "Dev/Convert Video.md",
     "Dev/Godot Tips 50.md",
     "Daily/2023-12-27.md",
     "Daily Template.md",
@@ -193,7 +194,6 @@
     "Life/Metabolism.md",
     "Life/Cooking.md",
     "College/_Notes.md",
-    "College/Caltech.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
