@@ -14,10 +14,32 @@ Things to do:
 
 
 ---
-Extra ideas:
-stretch
-osu / osu
-taisei touhou
-R&S
-Draw
-skincare
+More:
+- [ ] Stretch - W sit, Forward fold, Splits
+- [ ] Osu!std - 3 full plays
+- [ ] cs50
+- [ ] Krita
+
+
+Nice to have:
+- [ ] APUSH - [any](https://youtu.be/jqf_c9Pw8gs)
+- [ ] R&S
+
+One time:
+- [ ] SAT Math
+- [ ] SAT Reading
+- [ ] Drivers Ed
+- [ ] Cuticle
+- [ ] Nutritional
+- [ ] Skincare
+- [ ] Depilatory
+- [ ] BECOME [SAT TUTOR](https://schoolhouse.world/sat-bootcamp/tutor) 
+
+[Psych course?](https://ea.asu.edu/courses/introduction-to-psychology-psy-101/) 
+Fake screentime generator for iOS and Android?
+Git for Android?
+Godot solo vis?
+Godot hider node?
+Godot scene change?
+
+Honors recital bruh..
