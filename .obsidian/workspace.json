@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-06-22.md",
+                "file": "Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-22.md",
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-22.md",
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-06-22.md"
+                "file": "Daily Template.md"
               }
             }
           },
@@ -168,13 +168,16 @@
   },
   "active": "4ed30fc797215fb6",
   "lastOpenFiles": [
+    "Driving log 2024.md",
+    "Daily Template.md",
+    "SAT/_Math.md",
+    "Daily/2024-06-24.md",
     "Dev/Convert Video.md",
-    "Daily/2024-06-22.md",
     "Dev/Git on Android.md",
+    "Daily/2024-06-22.md",
     "Daily/2024-06-21.md",
     "Dev/Godot Tips 50.md",
     "Daily/2023-12-27.md",
-    "Daily Template.md",
     "Calc/Derivation.md",
     "Daily/2024-06-20.md",
     "Daily/2024-06-18.md",
@@ -184,7 +187,6 @@
     "Dev/Godot Tips.md",
     "Daily/2024-06-14.md",
     "Daily/2024-06-12.md",
-    "Driving log 2024.md",
     "Daily/2024-06-07.md",
     "Daily/2024-06-04.md",
     "Life/Food Places.md",
@@ -192,8 +194,6 @@
     "_Gen Notes.md",
     "Life/Money.md",
     "Life/Metabolism.md",
-    "Life/Cooking.md",
-    "College/_Notes.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",

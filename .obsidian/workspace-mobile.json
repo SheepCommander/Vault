@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Godot Tips 50.md",
+                "file": "Dev/Convert Video.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dev/Godot Tips 50.md",
+            "file": "Dev/Convert Video.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dev/Godot Tips 50.md",
+            "file": "Dev/Convert Video.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dev/Godot Tips 50.md"
+            "file": "Dev/Convert Video.md"
           }
         }
       },
@@ -145,6 +145,10 @@
   },
   "active": "0dfa282342eb60f7",
   "lastOpenFiles": [
+    "Dev/Git on Android.md",
+    "Dev/Godot Tips.md",
+    "Dev/Reduce video file size.md",
+    "Dev/Godot Tips 50.md",
     "Daily/2024-06-20.md",
     "Daily/2024-06-18.md",
     "College/MIT.md",
@@ -167,10 +171,6 @@
     "/Driving/Speed limits.md",
     "/Driving/Distances.md",
     "/Life/Money.md",
-    "/Life/Metabolism.md",
-    "/Life/Food Places.md",
-    "/Life/Cooking.md",
-    "/Driving/_Final Test.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
