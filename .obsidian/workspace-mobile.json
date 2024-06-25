@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Convert Video.md",
+                "file": "Daily/2024-06-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dev/Convert Video.md",
+            "file": "Daily/2024-06-24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dev/Convert Video.md",
+            "file": "Daily/2024-06-24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dev/Convert Video.md"
+            "file": "Daily/2024-06-24.md"
           }
         }
       },
@@ -145,6 +145,8 @@
   },
   "active": "0dfa282342eb60f7",
   "lastOpenFiles": [
+    "Daily/2024-06-23.md",
+    "Dev/Convert Video.md",
     "Dev/Git on Android.md",
     "Dev/Godot Tips.md",
     "Dev/Reduce video file size.md",
@@ -169,8 +171,6 @@
     "Driving/_Final Test.md",
     "/Driving/_Stars.md",
     "/Driving/Speed limits.md",
-    "/Driving/Distances.md",
-    "/Life/Money.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",

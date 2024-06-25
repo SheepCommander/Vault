@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: sttcu-fyp5f
-created: 2024-06-22T03:51:12-07:00
