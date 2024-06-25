@@ -23,7 +23,8 @@ winget install --id=LizardByte.Sunshine &
 winget install --id=Valve.Steam &
 winget install --id=Audacity.Audacity &
 winget install --id=Microsoft.VisualStudio.2022.Community &
-winget install --id zig.zig &
+winget install --id=zig.zig &
+winget install --id=VSCodium.VSCodium &
 ```
 ### Doesn't support winget:
 - [ ] NanaZip https://www.microsoft.com/store/apps/9N8G7TSCL18R
