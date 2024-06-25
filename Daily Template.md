@@ -11,7 +11,15 @@ Things to do:
 - [ ] Voice training
 - [ ] Daily journal
 
+---
 
+---
+
+---
+
+---
+
+---
 
 ---
 More:
