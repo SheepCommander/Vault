@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-06-25.md",
+                "file": "Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2024-06-25.md",
+            "file": "Daily Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2024-06-25.md",
+            "file": "Daily Template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2024-06-25.md"
+            "file": "Daily Template.md"
           }
         }
       },
@@ -145,8 +145,8 @@
   },
   "active": "0dfa282342eb60f7",
   "lastOpenFiles": [
-    "Daily/2024-06-24.md",
     "Daily/2024-06-25.md",
+    "Daily/2024-06-24.md",
     "College/_Notes.md",
     "Driving log 2024.md",
     "Daily Template.md",

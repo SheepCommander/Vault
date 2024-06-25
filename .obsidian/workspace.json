@@ -11,8 +11,12 @@
             "id": "c29230f6e00212cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Template.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "c29230f6e00212cd",
   "lastOpenFiles": [
+    "SAT/Statistics.md",
+    "SAT/Geometry.md",
     "Dev/Factory Reset.md",
     "Dev/Git on Android.md",
     "Dev/Godot Tips.md",
@@ -184,8 +194,6 @@
     "Daily/2024-06-07.md",
     "Daily/2024-06-04.md",
     "Life/Food Places.md",
-    "Life/Vaseline.md",
-    "_Gen Notes.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
