@@ -11,12 +11,8 @@
             "id": "c29230f6e00212cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Factory Reset.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Factory Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Factory Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dev/Factory Reset.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,12 +160,12 @@
   },
   "active": "c29230f6e00212cd",
   "lastOpenFiles": [
+    "Dev/Factory Reset.md",
     "Dev/Git on Android.md",
     "Dev/Godot Tips.md",
     "Daily/2024-06-24.md",
     "Daily Template.md",
     "Driving log 2024.md",
-    "Dev/Factory Reset.md",
     "Dev/Reduce video file size.md",
     "Dev/Godot Tips 50.md",
     "Dev/Convert Video.md",
