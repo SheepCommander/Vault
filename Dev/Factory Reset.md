@@ -10,6 +10,7 @@ winget install --id=GitHub.cli;
 winget install --id=yt-dlp.yt-dlp;
 winget install --id=Gyan.FFmpeg;
 winget install --id=Gyan.FFmpeg.Shared;
+winget install --id=HandBrake.HandBrake;
 
 winget install --id=AntibodySoftware.WizTree;
 winget install --id=File-New-Project.EarTrumpet;
@@ -31,11 +32,11 @@ winget install --id=Audacity.Audacity;
 - [ ] OrcaSlicer https://github.com/SoftFever/OrcaSlicer
 	- winget install --id=SoftFever.OrcaSlicer;
 - [ ] Osu! https://github.com/ppy/osu
-	- peppy HATES winget
+	- ❌DO NOT winget, peppy HATES
 - [ ] r2modman https://github.com/ebkr/r2modmanPlus
 	- ❕not there
 - [ ] Krita https://krita.org/en/download/
-	- is there but technically u shld pay for automatic updates
+	- is ther but u shld pay steam,,,
 - [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
 	- ❕not there
 - [ ] ZeroTier https://www.zerotier.com/download/
@@ -44,8 +45,6 @@ winget install --id=Audacity.Audacity;
 	- ❕not there
 - [ ] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
 	- ❕not there
-- [ ] Whatsapp
-	- winget doesnt work for some reason
 - [ ] CrystalDiskInfo https://crystalmark.info/en/software/crystaldiskinfo/
 	- winget install --id=CrystalDewWorld.CrystalDiskInfo.AoiEdition;
 - [ ] JKPS (I just zip & pass it around so i dont have to redo the settings)
@@ -56,7 +55,7 @@ winget install --id=Audacity.Audacity;
 - [ ] Obsidian https://obsidian.md
 - [ ] GeForce Experience https://www.nvidia.com/en-us/geforce/geforce-experience/download/
 - [ ] MuseScore / MuseHub
-
+- [ ] Whatsapp
 ### Don't want:
 winget install --id Mozilla.Firefox;
 - btw i install Blender & Godot from Steam for fun

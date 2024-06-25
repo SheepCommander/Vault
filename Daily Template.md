@@ -1,10 +1,11 @@
 Log:
 
 
-
 Shtuff:
 - 
 
+ADHD:
+- 
 
 Things to do:
 - [ ] Shower (& shtuff)
@@ -12,6 +13,8 @@ Things to do:
 - [ ] Daily journal
 
 ---
+Woke:
+Slept:
 
 ---
 
@@ -42,6 +45,9 @@ One time:
 - [ ] Skincare
 - [ ] Depilatory
 - [ ] BECOME [SAT TUTOR](https://schoolhouse.world/sat-bootcamp/tutor) 
+
+Need to do:
+- [ ] Schedule drives
 
 [Psych course?](https://ea.asu.edu/courses/introduction-to-psychology-psy-101/) 
 Fake screentime generator for iOS and Android?
