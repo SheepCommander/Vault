@@ -55,8 +55,8 @@ Git for Android?
 Godot solo vis?
 Godot hider node?
 Godot scene change?
-Website? Sheepcommander.moe? Sheepcommander.us?
+Website? Sheepcommander.moe?
 Simple C projects..
-Godot asset library LOCAL
+Godot asset drawer LOCAL
 
 Honors recital bruh..
