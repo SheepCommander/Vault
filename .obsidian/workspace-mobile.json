@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Food Places.md",
+                "file": "Daily/24-06.25-Tu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Life/Food Places.md",
+            "file": "Daily/24-06.25-Tu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Life/Food Places.md",
+            "file": "Daily/24-06.25-Tu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Life/Food Places.md"
+            "file": "Daily/24-06.25-Tu.md"
           }
         }
       },
@@ -146,11 +146,13 @@
   "active": "0dfa282342eb60f7",
   "lastOpenFiles": [
     "Daily/2024-06-25.md",
-    "Daily Template.md",
+    "Daily/24-06.25-Tu.md",
     "Daily/2024-06-24.md",
+    "Daily/2024-06-23.md",
+    "Daily Template.md",
+    "Life/Food Places.md",
     "College/_Notes.md",
     "Driving log 2024.md",
-    "Daily/2024-06-23.md",
     "Dev/Convert Video.md",
     "Dev/Git on Android.md",
     "Dev/Godot Tips.md",
@@ -159,7 +161,6 @@
     "Daily/2024-06-20.md",
     "Daily/2024-06-18.md",
     "College/MIT.md",
-    "Life/Food Places.md",
     "Daily/2024-06-15.md",
     "Life/Cooking.md",
     "Daily/2024-06-14.md",
@@ -170,7 +171,6 @@
     "Daily/2024-06-11.md",
     "Driving/_Stars.md",
     "Driving/Speed limits.md",
-    "Driving/Distances.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
