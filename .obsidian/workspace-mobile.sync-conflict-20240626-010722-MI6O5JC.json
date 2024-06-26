@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "1f7408ce295ac701",
+    "type": "split",
+    "children": [
+      {
+        "id": "880e7af5dd1cff21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dfa282342eb60f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/24-06.25-Tu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9627455bfb5f8438",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "11edcbe4dab35878",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ebe2e37b9fc6f6bb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "22eba07cbe5a9aa0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6bb9d74f51f0e358",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2150ddf49dc97157",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "af1de01994bd7c60",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily/24-06.25-Tu.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "20b50dcfa43c87a1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily/24-06.25-Tu.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e755f1ea14d6ac41",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily/24-06.25-Tu.md"
+          }
+        }
+      },
+      {
+        "id": "26a7b2fd9c3331dc",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0dfa282342eb60f7",
+  "lastOpenFiles": [
+    "Daily/2024-06-25.md",
+    "Daily/24-06.25-Tu.md",
+    "Daily/2024-06-24.md",
+    "Daily/2024-06-23.md",
+    "Daily Template.md",
+    "Life/Food Places.md",
+    "College/_Notes.md",
+    "Driving log 2024.md",
+    "Dev/Convert Video.md",
+    "Dev/Git on Android.md",
+    "Dev/Godot Tips.md",
+    "Dev/Reduce video file size.md",
+    "Dev/Godot Tips 50.md",
+    "Daily/2024-06-20.md",
+    "Daily/2024-06-18.md",
+    "College/MIT.md",
+    "Daily/2024-06-15.md",
+    "Life/Cooking.md",
+    "Daily/2024-06-14.md",
+    "/Daily Template.md",
+    "/Daily/2024-06-14.md",
+    "Daily/2024-06-12.md",
+    "conflict-files-obsidian-git.md",
+    "Daily/2024-06-11.md",
+    "Driving/_Stars.md",
+    "Driving/Speed limits.md",
+    "raw/Precalc",
+    "Daily",
+    "/raw/Precalc",
+    "/Daily",
+    "Excalidraw",
+    "Life",
+    "/Life",
+    "raw/Images/Pasted image 20240601135326.png",
+    "/raw/Images/Pasted image 20240601135326.png",
+    "Precalc",
+    "Calc",
+    "/Precalc"
+  ]
+}

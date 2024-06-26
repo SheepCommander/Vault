@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "de8430f03b289680",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf6bd133caabb53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c29230f6e00212cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-06-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beb3ca59f9c6bfcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcdcf3f6f225cc59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87a6e89191f9ce0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60f2a9ab6d4fc1ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "279e28f6a2dec940",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "93eee7dd36bdffb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "53a49515b34b9dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37b7bfa8bd67466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-06-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "addc55c6635b8100",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024-06-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f01b27c1f1590ff0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ee31292fc97c33b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024-06-26.md"
+              }
+            }
+          },
+          {
+            "id": "fcadf110aabeed1d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "75ac9b9a1d9d5d55",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c29230f6e00212cd",
+  "lastOpenFiles": [
+    "Dev/Factory Reset.md",
+    "Daily/2024-06-26.md",
+    "Dev/Convert Video.md",
+    "Daily/24-06.25-Tu.md",
+    "Daily Template.md",
+    "SAT/Statistics.md",
+    "SAT/Geometry.md",
+    "Dev/Git on Android.md",
+    "Dev/Godot Tips.md",
+    "Daily/2024-06-24.md",
+    "Driving log 2024.md",
+    "Dev/Reduce video file size.md",
+    "Dev/Godot Tips 50.md",
+    "Priorities.md",
+    "SAT/_Math.md",
+    "Daily/2024-06-22.md",
+    "Daily/2024-06-21.md",
+    "Daily/2023-12-27.md",
+    "Calc/Derivation.md",
+    "Daily/2024-06-20.md",
+    "Daily/2024-06-18.md",
+    "Daily/2024-06-15.md",
+    "Daily/2024-06-16.md",
+    "Daily/2024-06-14.md",
+    "Daily/2024-06-12.md",
+    "Daily/2024-06-07.md",
+    "Excalidraw",
+    "Life",
+    "raw/Precalc",
+    "Calc",
+    "raw/Images/Pasted image 20240601135326.png",
+    "Driving",
+    "Dev",
+    "raw/Images/Pasted image 20240531173046.png",
+    "SAT",
+    "College",
+    "Untitled.canvas",
+    "lazygit.exe",
+    "raw/Images/Pasted image 20240505125525.png",
+    "raw/Images/Pasted image 20240423181533.png",
+    "raw/Images/Pasted image 20240206190135.png",
+    "raw",
+    "raw/Images/Pasted image 20240512132848.png",
+    "raw/Images/Pasted image 20240512132657.png",
+    "raw/Images/Pasted image 20240512132612.png",
+    "raw/Images/Pasted image 20240512122853.png",
+    "raw/Images/Pasted image 20240512122746.png"
+  ]
+}
