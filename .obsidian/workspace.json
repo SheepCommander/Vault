@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/2024-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/2024-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/2024-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "Daily/2024-06-26.md"
               }
             }
           },
@@ -168,13 +168,14 @@
   },
   "active": "c29230f6e00212cd",
   "lastOpenFiles": [
+    "Daily Template.md",
+    "Daily/2024-06-26.md",
     "SAT/Statistics.md",
     "SAT/Geometry.md",
     "Dev/Factory Reset.md",
     "Dev/Git on Android.md",
     "Dev/Godot Tips.md",
     "Daily/2024-06-24.md",
-    "Daily Template.md",
     "Driving log 2024.md",
     "Dev/Reduce video file size.md",
     "Dev/Godot Tips 50.md",
@@ -193,7 +194,6 @@
     "Daily/2024-06-12.md",
     "Daily/2024-06-07.md",
     "Daily/2024-06-04.md",
-    "Life/Food Places.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
