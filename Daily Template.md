@@ -8,7 +8,7 @@ ADHD:
 - 
 
 Things to do:
-- [ ] Shower (& shtuff)
+- [ ] Shower (& shtuff) Brush
 - [ ] Voice training
 - [ ] Daily journal
 
