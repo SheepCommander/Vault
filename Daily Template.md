@@ -30,6 +30,7 @@ More:
 - [ ] Osu!std - 3 full plays
 - [ ] cs50
 - [ ] Krita
+- [ ] 2 Brush 1 Floss
 
 
 Nice to have:
