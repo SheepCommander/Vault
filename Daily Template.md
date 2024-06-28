@@ -6,12 +6,11 @@ Shtuff:
 
 ADHD:
 - 
-
+---
 Things to do:
 - [ ] Shower (& shtuff) Brush
 - [ ] Voice training
 - [ ] Daily journal
-
 ---
 Woke:
 Slept:
@@ -31,7 +30,6 @@ More:
 - [ ] cs50
 - [ ] Krita
 - [ ] 2 Brush 1 Floss
-
 
 Nice to have:
 - [ ] APUSH - [any](https://youtu.be/jqf_c9Pw8gs)
