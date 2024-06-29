@@ -10,4 +10,3 @@ cd /storage/emulated/0/Documents/Vault && git fetch && git pull && git status
 ```
 cd /storage/emulated/0/Documents/Vault && git fetch && git pull && git status && git add . && git commit -m "h" && git push 
 ```
-

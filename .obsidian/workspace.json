@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4cf6bd133caabb53",
+        "id": "bbf190b29cdd4ced",
         "type": "tabs",
         "children": [
           {
-            "id": "c29230f6e00212cd",
+            "id": "137e1dca7e2822ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zig/My Zig Questions.md",
+                "file": "Daily/24-06.29-Sa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zig/My Zig Questions.md",
+                "file": "Daily/24-06.29-Sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zig/My Zig Questions.md",
+                "file": "Daily/24-06.29-Sa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zig/My Zig Questions.md"
+                "file": "Daily/24-06.29-Sa.md"
               }
             }
           },
@@ -166,23 +166,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c29230f6e00212cd",
+  "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
+    "Dev/Git on Android.md",
+    "Dev/Factory Reset.md",
     "Zig/My Zig Questions.md",
+    "Daily/24-06.29-Sa.md",
+    "Daily/24-06.28-Fr.md",
     "SAT/Statistics.md",
     "SAT/Geometry.md",
     "SAT/_Notes.md",
     "Dev/Clear cmd.md",
-    "Daily/24-06.29-Sa.md",
     "Zig",
     "Dev/Godot Tips.md",
     "Dev/Convert Video.md",
-    "Daily/24-06.28-Fr.md",
     "Daily/24-06.27-Th.md",
     "Daily Template.md",
     "Daily/2024-06-26.md",
-    "Dev/Factory Reset.md",
-    "Dev/Git on Android.md",
     "Daily/2024-06-24.md",
     "Driving log 2024.md",
     "Dev/Reduce video file size.md",

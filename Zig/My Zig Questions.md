@@ -25,3 +25,5 @@ zig run main.zig
 zig test main.zig
 zig run src/main.zig
 ```
+### What is `usize`?????
+[On 64 bit PCs its u64 & 32bit PCs its u32](https://ziggit.dev/t/what-is-usize/3390/3)
