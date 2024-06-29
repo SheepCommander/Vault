@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-06-26.md",
+                "file": "Daily/24-06.29-Sa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-06-26.md",
+                "file": "Daily/24-06.29-Sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-06-26.md",
+                "file": "Daily/24-06.29-Sa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-06-26.md"
+                "file": "Daily/24-06.29-Sa.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "c29230f6e00212cd",
   "lastOpenFiles": [
+    "Daily/24-06.29-Sa.md",
     "Daily Template.md",
     "Daily/2024-06-26.md",
     "SAT/Statistics.md",
@@ -193,7 +194,6 @@
     "Daily/2024-06-14.md",
     "Daily/2024-06-12.md",
     "Daily/2024-06-07.md",
-    "Daily/2024-06-04.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
