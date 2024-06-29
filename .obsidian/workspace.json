@@ -11,12 +11,8 @@
             "id": "c29230f6e00212cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/24-06.29-Sa.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-06.29-Sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-06.29-Sa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/24-06.29-Sa.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,16 +160,19 @@
   },
   "active": "c29230f6e00212cd",
   "lastOpenFiles": [
-    "Dev/Cmd tips.md",
+    "Zig/My Zig Questions.md",
+    "SAT/Statistics.md",
+    "SAT/Geometry.md",
+    "SAT/_Notes.md",
+    "Dev/Clear cmd.md",
+    "Daily/24-06.29-Sa.md",
+    "Zig",
     "Dev/Godot Tips.md",
     "Dev/Convert Video.md",
-    "Daily/24-06.29-Sa.md",
     "Daily/24-06.28-Fr.md",
     "Daily/24-06.27-Th.md",
     "Daily Template.md",
     "Daily/2024-06-26.md",
-    "SAT/Statistics.md",
-    "SAT/Geometry.md",
     "Dev/Factory Reset.md",
     "Dev/Git on Android.md",
     "Daily/2024-06-24.md",
@@ -192,8 +187,6 @@
     "Calc/Derivation.md",
     "Daily/2024-06-20.md",
     "Daily/2024-06-18.md",
-    "Daily/2024-06-15.md",
-    "Daily/2024-06-16.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
@@ -209,7 +202,6 @@
     "raw/Images/Pasted image 20240505125525.png",
     "raw/Images/Pasted image 20240423181533.png",
     "raw/Images/Pasted image 20240206190135.png",
-    "raw",
     "raw/Images/Pasted image 20240512132848.png",
     "raw/Images/Pasted image 20240512132657.png",
     "raw/Images/Pasted image 20240512132612.png",
