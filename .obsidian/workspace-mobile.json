@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-06.28-Fr.md",
+                "file": "Daily Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a77ddfbc8f9348c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/24-06.29-Sa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/24-06.28-Fr.md",
+            "file": "Daily/24-06.29-Sa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/24-06.28-Fr.md",
+            "file": "Daily/24-06.29-Sa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/24-06.28-Fr.md"
+            "file": "Daily/24-06.29-Sa.md"
           }
         }
       },
@@ -143,12 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dfa282342eb60f7",
+  "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
-    "Daily/24-06.27-Th.md",
-    "Daily/24-06.28-Fr.md",
-    "Daily/24-06.26-We.md",
+    "Untitled.md",
     "Daily Template.md",
+    "Untitled",
+    "Daily/24-06.29-Sa.md",
+    "Daily/24-06.28-Fr.md",
+    "Daily/24-06.27-Th.md",
+    "Daily/24-06.26-We.md",
     "Daily/24-06.25-Tu.md",
     "Daily/2024-06-24.md",
     "raw/Images/Pasted image 20231217145408.png",
@@ -171,8 +187,6 @@
     "Driving/Distances.md",
     "Dev/Convert Video.md",
     "Dev/Factory Reset.md",
-    "Daily/2024 Jan Socratic Seminar.md",
-    "Daily/2024-06-25.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
@@ -183,7 +197,6 @@
     "raw/Images/Pasted image 20240601135326.png",
     "/raw/Images/Pasted image 20240601135326.png",
     "Precalc",
-    "Calc",
-    "/Precalc"
+    "Calc"
   ]
 }
