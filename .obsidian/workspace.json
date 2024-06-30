@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-06.29-Sa.md",
+                "file": "Daily/24-06.30-Su.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-06.29-Sa.md",
+                "file": "Daily/24-06.30-Su.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-06.29-Sa.md",
+                "file": "Daily/24-06.30-Su.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-06.29-Sa.md"
+                "file": "Daily/24-06.30-Su.md"
               }
             }
           },
@@ -168,8 +168,12 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
-    "Daily/24-06.28-Fr.md",
+    "Daily Template.md",
+    "Daily/24-06.30-Su.md",
+    "Untitled.md",
+    "Driving log 2024.md",
     "Daily/24-06.29-Sa.md",
+    "Daily/24-06.28-Fr.md",
     "Dev/Git on Android.md",
     "Dev/Factory Reset.md",
     "Zig/My Zig Questions.md",
@@ -181,10 +185,8 @@
     "Dev/Godot Tips.md",
     "Dev/Convert Video.md",
     "Daily/24-06.27-Th.md",
-    "Daily Template.md",
     "Daily/2024-06-26.md",
     "Daily/2024-06-24.md",
-    "Driving log 2024.md",
     "Dev/Reduce video file size.md",
     "Dev/Godot Tips 50.md",
     "Priorities.md",
@@ -193,8 +195,6 @@
     "Daily/2024-06-21.md",
     "Daily/2023-12-27.md",
     "Calc/Derivation.md",
-    "Daily/2024-06-20.md",
-    "Daily/2024-06-18.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
