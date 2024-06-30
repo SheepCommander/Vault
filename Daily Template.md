@@ -12,7 +12,7 @@ Things to do:
 - [ ] Voice training
 - [ ] Voice training
 ---
-Woke:      (hrs since [[{{date}}]])
+Woke: 
 Slept: 
 
 ---
@@ -55,9 +55,10 @@ Godot solo vis?
 Godot hider node?
 Godot scene change?
 Website? Sheepcommander.moe?
-Simple C projects..
+Simple C projects.. / Zig... / C++...
 Godot asset drawer LOCAL
 Blake FNF game
 Discord bot
+My own programming language!
 
 Honors recital bruh..
