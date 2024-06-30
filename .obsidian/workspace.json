@@ -11,12 +11,8 @@
             "id": "137e1dca7e2822ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SheepLang.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SheepLang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SheepLang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SheepLang.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,6 +160,7 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
+    "SheepLang.md",
     "Daily/~syncthing~24-06.30-Su.md.tmp",
     "Daily/~syncthing~24-06.29-Sa.md.tmp",
     "Daily/24-06.30-Su.md",
@@ -178,7 +171,6 @@
     "{{date}}.md",
     "~syncthing~{{date}}.md.tmp",
     "Driving log 2024.md",
-    "SheepLang.md",
     "Daily Template.md",
     "Daily/24-06.29-Sa.md",
     "Dev/Convert Video.md",
