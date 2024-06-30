@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-06.29-Sa.md",
+                "file": "Daily/24-06.30-Su.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/24-06.29-Sa.md",
+            "file": "Daily/24-06.30-Su.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/24-06.29-Sa.md",
+            "file": "Daily/24-06.30-Su.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/24-06.29-Sa.md"
+            "file": "Daily/24-06.30-Su.md"
           }
         }
       },
@@ -158,8 +158,9 @@
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
-    "Daily/24-06.28-Fr.md",
     "Daily/24-06.29-Sa.md",
+    "Daily/24-06.30-Su.md",
+    "Daily/24-06.28-Fr.md",
     "Daily Template.md",
     "Driving log 2024.md",
     "Untitled.md",
@@ -186,7 +187,6 @@
     "Driving/_Final Test.md",
     "Driving/Distances.md",
     "Dev/Convert Video.md",
-    "Dev/Factory Reset.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
