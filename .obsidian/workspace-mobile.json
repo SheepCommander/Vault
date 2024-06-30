@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-06.30-Su.md",
+                "file": "Daily/24-06.29-Sa.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/24-06.30-Su.md",
+            "file": "Daily/24-06.29-Sa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/24-06.30-Su.md",
+            "file": "Daily/24-06.29-Sa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/24-06.30-Su.md"
+            "file": "Daily/24-06.29-Sa.md"
           }
         }
       },
@@ -158,6 +158,7 @@
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
+    "Daily/24-06.28-Fr.md",
     "Daily/24-06.29-Sa.md",
     "Daily/24-06.30-Su.md",
     "Daily Template.md",
@@ -168,7 +169,6 @@
     "24-06.30 1.md",
     "24-06.30.md",
     "{{date}}.md",
-    "Daily/24-06.28-Fr.md",
     "Driving log 2024.md",
     "Untitled.md",
     "Untitled",
