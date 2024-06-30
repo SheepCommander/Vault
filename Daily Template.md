@@ -10,10 +10,10 @@ ADHD:
 Things to do:
 - [ ] Shower (& shtuff) Brush
 - [ ] Voice training
-- [ ] Daily journal
+- [ ] Voice training
 ---
-Woke:
-Slept:
+Woke: 
+Slept: 
 
 ---
 
@@ -57,5 +57,6 @@ Godot scene change?
 Website? Sheepcommander.moe?
 Simple C projects..
 Godot asset drawer LOCAL
+Blake FNF game
 
 Honors recital bruh..
