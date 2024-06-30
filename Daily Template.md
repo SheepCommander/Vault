@@ -12,7 +12,7 @@ Things to do:
 - [ ] Voice training
 - [ ] Voice training
 ---
-Woke: 
+Woke:      (hrs since [[{{date}}]])
 Slept: 
 
 ---
