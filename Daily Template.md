@@ -60,5 +60,6 @@ Godot asset drawer LOCAL
 Blake FNF game
 Discord bot
 My own programming language!
+Neovim?
 
 Honors recital bruh..

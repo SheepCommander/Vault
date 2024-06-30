@@ -11,8 +11,12 @@
             "id": "137e1dca7e2822ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Life/Cleaning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Life/Cleaning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Life/Cleaning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Life/Cleaning.md"
+              }
             }
           },
           {
@@ -160,10 +168,12 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
+    "Daily/24-06.30-Su.md",
+    "Life/Cleaning.md",
+    "Daily Template.md",
     "SheepLang.md",
     "Daily/~syncthing~24-06.30-Su.md.tmp",
     "Daily/~syncthing~24-06.29-Sa.md.tmp",
-    "Daily/24-06.30-Su.md",
     "~syncthing~Daily Template.md.tmp",
     "24-06.30.md",
     "~syncthing~24-06.30.md.tmp",
@@ -171,7 +181,6 @@
     "{{date}}.md",
     "~syncthing~{{date}}.md.tmp",
     "Driving log 2024.md",
-    "Daily Template.md",
     "Daily/24-06.29-Sa.md",
     "Dev/Convert Video.md",
     "SAT/Calculator.md",
