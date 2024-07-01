@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-07.01-Mo.md",
+                "file": "Daily/24-06.28-Fr.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/24-07.01-Mo.md",
+            "file": "Daily/24-06.28-Fr.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/24-07.01-Mo.md",
+            "file": "Daily/24-06.28-Fr.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/24-07.01-Mo.md"
+            "file": "Daily/24-06.28-Fr.md"
           }
         }
       },
@@ -158,10 +158,10 @@
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
+    "Daily/24-06.29-Sa.md",
     "Daily/24-06.30-Su.md",
     "Daily/24-07.01-Mo.md",
     "Daily Template.md",
-    "Daily/24-06.29-Sa.md",
     "Daily/24-06.28-Fr.md",
     "Daily/2023-12-27.md",
     "SheepLang.md",
