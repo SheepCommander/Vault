@@ -6,5 +6,27 @@
   "newFileLocation": "root",
   "newFileFolderPath": "/",
   "attachmentFolderPath": "raw/Images",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "editor:insert-table",
+    "editor:table-row-copy",
+    "editor:table-row-up",
+    "editor:table-row-down",
+    "editor:table-row-delete"
+  ]
 }
