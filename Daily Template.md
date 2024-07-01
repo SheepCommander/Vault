@@ -28,12 +28,11 @@ Things to do:
 ---
 
 ---
-More:
+Secondary needs:
+- [ ] 2 Brush 1 Floss
 - [ ] Stretch - W sit, Forward fold, Splits
 - [ ] Osu!std - 3 full plays
-- [ ] cs50
 - [ ] Krita
-- [ ] 2 Brush 1 Floss
 
 Nice to have:
 - [ ] APUSH - [any](https://youtu.be/jqf_c9Pw8gs)
@@ -53,18 +52,18 @@ Need to do:
 - [ ] Schedule drives
 
 [Psych course?](https://ea.asu.edu/courses/introduction-to-psychology-psy-101/) 
-Fake screentime generator for iOS and Android?
-Git for Android?
-Godot solo vis?
-Godot hider node?
-Godot scene change?
-Website? Sheepcommander.moe?
-Simple C projects.. / Zig... / C++...
-Godot asset drawer LOCAL
-Blake FNF game
-Discord bot
-My own programming language!
-Neovim?
 
-
-Honors recital bruh..
+Programming:
+- [ ] cs50
+- [ ] Fake screentime generator for iOS and Android?
+- [ ] Git for Android?
+- [ ] Godot solo vis?
+- [ ] Godot hider node?
+- [ ] Godot scene change?
+- [ ] Website? Sheepcommander.moe?
+- [ ] Simple C projects.. / Zig... / C++...
+- [ ] Godot asset drawer LOCAL
+- [ ] Blake FNF game
+- [ ] Discord bot
+- [ ] My own programming language!
+- [ ] Neovim?
