@@ -71,4 +71,4 @@ Programming:
 - [ ] Discord bot
 - [ ] Programming language! [LLVM](https://youtu.be/BT2Cv-Tjq7Q)! 
 - [ ] Neovim?
-- [ ] 
+- [ ] "Mark unread until i send another message" discord feature
