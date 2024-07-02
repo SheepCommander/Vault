@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/24-07.01-Mo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/24-07.01-Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/24-07.01-Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "Daily/24-07.01-Mo.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
-    "Completions.md",
     "Daily Template.md",
+    "Completions.md",
     "Daily/24-07.01-Mo.md",
     "Daily/24-06.30-Su.md",
     "Life/Cleaning.md",

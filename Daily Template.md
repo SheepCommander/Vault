@@ -12,12 +12,13 @@ Things to do:
 - [ ] Voice training
 - [ ] Voice training
 
-|          | Hours slept/awake prior to ...... |
-| -------- | --------------------------------- |
-| Slept am | *hr since [[{{date:YY-}}*         |
-| Woke     | hours                             |
-| Slept    |                                   |
-| Slept    | tomorrow [[{{date:YY-}}           |
+| Time........... | Hours slept/awake prior to ...... |
+| --------------- | --------------------------------- |
+| Slept           | *hr since [[{{date:YY-}}*         |
+| Woke            | hours                             |
+| Slept           | *hr since*                        |
+| Woke            | hours                             |
+| Slept           | tomorrow [[{{date:YY-}}           |
 
 ---
 
@@ -67,3 +68,4 @@ Programming:
 - [ ] Discord bot
 - [ ] My own programming language!
 - [ ] Neovim?
+- [ ] 
