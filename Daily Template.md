@@ -53,6 +53,7 @@ Need to do:
 - [ ] Schedule drives
 
 [Psych course?](https://ea.asu.edu/courses/introduction-to-psychology-psy-101/) 
+Handwriting
 
 Programming:
 - [ ] cs50

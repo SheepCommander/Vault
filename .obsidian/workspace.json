@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-07.01-Mo.md",
+                "file": "Driving log 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,12 +168,13 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
+    "Daily Template.md",
+    "Driving log 2024.md",
+    "Daily/24-07.01-Mo.md",
     "Dev/Convert Video.md",
     "Dev/Clear cmd.md",
     "Dev/Factory Reset.md",
-    "Daily Template.md",
     "Completions.md",
-    "Daily/24-07.01-Mo.md",
     "Daily/24-06.30-Su.md",
     "Life/Cleaning.md",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
@@ -186,7 +187,6 @@
     "Daily/24-06.30-Su_.md",
     "{{date}}.md",
     "~syncthing~{{date}}.md.tmp",
-    "Driving log 2024.md",
     "Daily/24-06.29-Sa.md",
     "SAT/Calculator.md",
     "Daily/24-06.28-Fr.md",
