@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-07.01-Mo.md",
+                "file": "Daily/24-07.02-Tu.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/24-07.01-Mo.md",
+            "file": "Daily/24-07.02-Tu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/24-07.01-Mo.md",
+            "file": "Daily/24-07.02-Tu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/24-07.01-Mo.md"
+            "file": "Daily/24-07.02-Tu.md"
           }
         }
       },
@@ -158,8 +158,9 @@
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
-    "Daily Template.md",
     "Daily/24-07.01-Mo.md",
+    "Daily/24-07.02-Tu.md",
+    "Daily Template.md",
     "SheepLang.md",
     "Daily/24-06.30-Su.md",
     "Daily/24-06.29-Sa.md",
@@ -187,7 +188,6 @@
     "Calc/Limits.md",
     "Life/Food Places.md",
     "Life/Cooking.md",
-    "Life/Metabolism.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",

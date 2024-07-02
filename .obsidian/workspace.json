@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Driving log 2024.md",
+                "file": "Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-07.01-Mo.md",
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-07.01-Mo.md",
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-07.01-Mo.md"
+                "file": "Daily Template.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
+    "Daily/24-07.01-Mo.md",
     "Daily Template.md",
     "Driving log 2024.md",
-    "Daily/24-07.01-Mo.md",
     "Dev/Convert Video.md",
     "Dev/Clear cmd.md",
     "Dev/Factory Reset.md",
