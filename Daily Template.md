@@ -12,13 +12,13 @@ Things to do:
 - [ ] Voice training
 - [ ] Voice training
 
-| Time........... | Hours slept/awake prior to ...... |
-| --------------- | --------------------------------- |
-| Slept           | *hr since [[{{date:YY-}}*         |
-| Woke            | hours                             |
-| Slept           | *hr since*                        |
-| Woke            | hours                             |
-| Slept           | tomorrow [[{{date:YY-}}           |
+| Time........... | Hours slept/awake prior to... |
+| --------------- | ----------------------------- |
+| Slept           | *hr since [[{{date:YY-}}*     |
+| Woke            | hours                         |
+| Slept           | *hr since*                    |
+| Woke            | hours                         |
+| Slept           | tomorrow [[{{date:YY-}}       |
 
 ---
 
