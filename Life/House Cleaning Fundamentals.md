@@ -65,7 +65,21 @@ Carpet or hardwood floor: Low
 - Take out filter & bang it on the ground outside (Some of them can be ran with Hot Water)
 
 # Toilet 2
-Gloves. Scrubbing wiping down. Use (except inside bowl) Mr. Clean or Dish Soap thing.
+**Gloves**. Scrubbing wiping down. Use (except inside bowl) Mr. Clean or Dish Soap thing.
 - Spray from top to bottom: Lid & top of toilet, Seat, underneath Seat, then surrounding floor (sides & front).
 - Use toilet paper. Reverse order: start with all seats up, then put them down one at a time. Wipe down toilet seats.
 - Get more toilet paper for the very top. Then sides of toilet & floor.
+
+#### Toilet Scrubber
+Use Toilet Scrubber to brush up underneath the lip of the toilet.
+
+Let it thing sit for an hour or two hours.
+
+### Washing rags
+Use normal detergent on hot. Don't use Fabric Softener.
+
+# Cleaning pans
+NEVER put lots of grease down the sink. It resolidifies as soon as it enters the pipes and messing up your plumbing.
+
+Put into trash, use toilet paper, then everything left will be residual. Residual is fine to put down the sink.
+
