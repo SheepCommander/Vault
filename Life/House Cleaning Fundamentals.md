@@ -73,7 +73,7 @@ Carpet or hardwood floor: Low
 #### Toilet Scrubber
 Use Toilet Scrubber to brush up underneath the lip of the toilet.
 
-Let it thing sit for an hour or two hours.
+Let sit for an hour or two hours.
 
 ### Washing rags
 Use normal detergent on hot. Don't use Fabric Softener.

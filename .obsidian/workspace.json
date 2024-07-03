@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/House Cleaning Fundamentals.md",
+                "file": "Daily/24-07.03-We.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/House Cleaning Fundamentals.md",
+                "file": "Daily/24-07.03-We.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/House Cleaning Fundamentals.md",
+                "file": "Daily/24-07.03-We.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/House Cleaning Fundamentals.md"
+                "file": "Daily/24-07.03-We.md"
               }
             }
           },
@@ -168,17 +168,20 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
-    "Life/Cooking.md",
     "Daily/24-07.02-Tu.md",
-    "Daily Template.md",
-    "Daily/24-07.01-Mo.md",
+    "Daily/24-07.03-We.md",
+    "Dev/Godot.md",
     "Driving log 2024.md",
+    "Daily Template.md",
+    "Completions.md",
+    "Life/Food Places.md",
+    "Life/Cooking.md",
+    "Life/House Cleaning Fundamentals.md",
+    "Daily/24-07.01-Mo.md",
     "Dev/Convert Video.md",
     "Dev/Clear cmd.md",
     "Dev/Factory Reset.md",
-    "Completions.md",
     "Daily/24-06.30-Su.md",
-    "Life/House Cleaning Fundamentals.md",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
     "Daily/~syncthing~24-06.30-Su.md.tmp",
     "~syncthing~Daily Template.md.tmp",
@@ -198,9 +201,6 @@
     "SAT/Geometry.md",
     "SAT/_Notes.md",
     "Zig",
-    "Dev/Godot Tips.md",
-    "Daily/24-06.27-Th.md",
-    "Daily/2024-06-26.md",
     "Excalidraw",
     "Life",
     "raw/Precalc",
