@@ -8,7 +8,7 @@ ADHD:
 - 
 ---
 Things to do:
-- [ ] Shower (& shtuff) Brush
+- [ ] Shower (& skin) Brush
 - [ ] Voice training
 - [ ] Voice training
 
@@ -16,7 +16,7 @@ Things to do:
 | --------------- | ----------------------------- |
 | Slept           | *hr since [[{{date:YY-}}*     |
 | Woke            | hours                         |
-| Slept           | *hr since*                    |
+| Slept           | *hr awake*                    |
 | Woke            | hours                         |
 | Slept           | tomorrow [[{{date:YY-}}       |
 
@@ -30,21 +30,20 @@ Things to do:
 
 ---
 Secondary needs:
-- [ ] 2 Brush 1 Floss
-- [ ] Stretch - W sit, Forward fold, Splits
-- [ ] Osu!std - 3 full plays
-- [ ] Krita
-- [ ] Singing
+- [ ] Stretch
+- [ ] Art
+- [ ] Handwriting
 
-Nice to have:
+Options:
+- [ ] Osu!std - 3 full plays
 - [ ] APUSH - [any](https://youtu.be/jqf_c9Pw8gs)
 - [ ] R&S
+- [ ] Translate JP (mental illness girl)
 
 One time:
 - [ ] SAT Math
 - [ ] SAT Reading
 - [ ] Drivers Ed
-- [ ] Cuticle
 - [ ] Nutritional
 - [ ] Skincare
 - [ ] Depilatory
@@ -54,8 +53,6 @@ Need to do:
 - [ ] Schedule drives
 
 [Psych course?](https://ea.asu.edu/courses/introduction-to-psychology-psy-101/) 
-Handwriting
-Translate JP (mental illness girl)
 
 Programming:
 - [ ] cs50
@@ -72,3 +69,4 @@ Programming:
 - [ ] Programming language! [LLVM](https://youtu.be/BT2Cv-Tjq7Q)! 
 - [ ] Neovim?
 - [ ] "Mark unread until i send another message" discord feature
+- [ ] 

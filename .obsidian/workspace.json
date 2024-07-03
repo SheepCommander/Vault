@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-07.03-We.md",
+                "file": "Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-07.03-We.md",
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-07.03-We.md",
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-07.03-We.md"
+                "file": "Daily Template.md"
               }
             }
           },
@@ -170,40 +170,40 @@
   "lastOpenFiles": [
     "Daily/24-07.02-Tu.md",
     "Daily/24-07.03-We.md",
-    "Dev/Godot.md",
-    "Driving log 2024.md",
-    "Daily Template.md",
+    "Daily/24-06.28-Fr.md",
     "Completions.md",
-    "Life/Food Places.md",
-    "Life/Cooking.md",
-    "Life/House Cleaning Fundamentals.md",
+    "Daily Template.md",
     "Daily/24-07.01-Mo.md",
-    "Dev/Convert Video.md",
-    "Dev/Clear cmd.md",
-    "Dev/Factory Reset.md",
     "Daily/24-06.30-Su.md",
+    "Daily/2024-03-12.md",
+    "Daily/2024-02-13.md",
+    "Daily/2024-02-11.md",
+    "Daily/2024-02-06.md",
+    "Daily/2024-02-04.md",
+    "Daily/2024-01-21.md",
+    "Daily/2024-01-04.md",
+    "Daily/2024-01-02.md",
+    "Daily/2023-12-27.md",
+    "Daily/2024 Jan Socratic Seminar.md",
+    "Driving log 2024.md",
+    "Daily/2024-06-11.md",
+    "Daily/2024-06-08.md",
+    "Daily/2024-06-07.md",
+    "Daily/2024-06-03.md",
+    "Daily/2024-06-04.md",
+    "Daily/2024-06-12.md",
+    "Daily/2024-06-14.md",
+    "Daily/2024-06-15.md",
+    "Art of Rhetoric",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
     "Daily/~syncthing~24-06.30-Su.md.tmp",
     "~syncthing~Daily Template.md.tmp",
-    "SheepLang.md",
     "Daily/~syncthing~24-06.29-Sa.md.tmp",
-    "24-06.30.md",
     "~syncthing~24-06.30.md.tmp",
-    "Daily/24-06.30-Su_.md",
-    "{{date}}.md",
     "~syncthing~{{date}}.md.tmp",
-    "Daily/24-06.29-Sa.md",
-    "SAT/Calculator.md",
-    "Daily/24-06.28-Fr.md",
-    "Dev/Git on Android.md",
-    "Zig/My Zig Questions.md",
-    "SAT/Statistics.md",
-    "SAT/Geometry.md",
-    "SAT/_Notes.md",
     "Zig",
     "Excalidraw",
     "Life",
-    "raw/Precalc",
     "raw/Images/Pasted image 20240601135326.png",
     "raw/Images/Pasted image 20240531173046.png",
     "Untitled.canvas",
