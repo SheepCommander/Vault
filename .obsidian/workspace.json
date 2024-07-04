@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Sleep tracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Sleep tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Sleep tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "Sleep tracking.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,13 +168,22 @@
   },
   "active": "137e1dca7e2822ef",
   "lastOpenFiles": [
-    "Daily/24-07.02-Tu.md",
-    "Daily/24-07.03-We.md",
-    "Daily/24-06.28-Fr.md",
-    "Completions.md",
-    "Daily Template.md",
+    "Daily/24-06.25-Tu.md",
+    "Sleep tracking.md",
+    "Excalidraw/Drawing 2024-07-04 02.33.02.excalidraw.md",
+    "Excalidraw",
     "Daily/24-07.01-Mo.md",
     "Daily/24-06.30-Su.md",
+    "Daily/24-06.29-Sa.md",
+    "Daily/24-06.28-Fr.md",
+    "Daily/24-06.27-Th.md",
+    "Daily/24-06.26-We.md",
+    "Daily/2024-06-24.md",
+    "Daily/2024-06-18.md",
+    "Daily Template.md",
+    "Daily/24-07.02-Tu.md",
+    "Daily/24-07.03-We.md",
+    "Completions.md",
     "Daily/2024-03-12.md",
     "Daily/2024-02-13.md",
     "Daily/2024-02-11.md",
@@ -186,14 +195,6 @@
     "Daily/2023-12-27.md",
     "Daily/2024 Jan Socratic Seminar.md",
     "Driving log 2024.md",
-    "Daily/2024-06-11.md",
-    "Daily/2024-06-08.md",
-    "Daily/2024-06-07.md",
-    "Daily/2024-06-03.md",
-    "Daily/2024-06-04.md",
-    "Daily/2024-06-12.md",
-    "Daily/2024-06-14.md",
-    "Daily/2024-06-15.md",
     "Art of Rhetoric",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
     "Daily/~syncthing~24-06.30-Su.md.tmp",
@@ -202,7 +203,6 @@
     "~syncthing~24-06.30.md.tmp",
     "~syncthing~{{date}}.md.tmp",
     "Zig",
-    "Excalidraw",
     "Life",
     "raw/Images/Pasted image 20240601135326.png",
     "raw/Images/Pasted image 20240531173046.png",
