@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-07.04-Th.md",
+                "file": "Hygiene/Moisturizing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-07.04-Th.md",
+                "file": "Hygiene/Moisturizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-07.04-Th.md",
+                "file": "Hygiene/Moisturizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-07.04-Th.md"
+                "file": "Hygiene/Moisturizing.md"
               }
             }
           },
@@ -169,11 +169,21 @@
   },
   "active": "f977e64e20b8d583",
   "lastOpenFiles": [
+    "Hygiene/Untitled.md",
+    "Hygiene/Moisturizing.md",
+    "Hygiene/Cuticles.md",
+    "Life/Cooking.md",
+    "Hygiene",
+    "Life/Food Places.md",
+    "Life/House Cleaning Fundamentals.md",
+    "Life/Money.md",
+    "Life/Metabolism.md",
+    "Daily/24-07.04-Th.md",
+    "Life/Vaseline.md",
     "Driving log 2024.md",
     "Daily Template.md",
     "Completions.md",
     "Sleep tracking.md",
-    "Daily/24-07.04-Th.md",
     "Daily/24-07.03-We.md",
     "Daily/2023-12-27.md",
     "Daily/2024-01-02.md",
@@ -187,15 +197,6 @@
     "Daily/24-06.29-Sa.md",
     "Daily/24-06.28-Fr.md",
     "Daily/24-06.27-Th.md",
-    "Daily/24-06.26-We.md",
-    "Daily/2024-06-24.md",
-    "Daily/2024-06-18.md",
-    "Daily/24-07.02-Tu.md",
-    "Daily/2024-03-12.md",
-    "Daily/2024-02-13.md",
-    "Daily/2024-02-11.md",
-    "Daily/2024-02-06.md",
-    "Daily/2024-02-04.md",
     "Art of Rhetoric",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
     "Daily/~syncthing~24-06.30-Su.md.tmp",
@@ -204,7 +205,6 @@
     "~syncthing~24-06.30.md.tmp",
     "~syncthing~{{date}}.md.tmp",
     "Zig",
-    "Life",
     "raw/Images/Pasted image 20240601135326.png",
     "raw/Images/Pasted image 20240531173046.png",
     "Untitled.canvas",
