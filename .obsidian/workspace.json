@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hygiene/Moisturizing.md",
+                "file": "Daily Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hygiene/Moisturizing.md",
+                "file": "Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hygiene/Moisturizing.md",
+                "file": "Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hygiene/Moisturizing.md"
+                "file": "Daily Template.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "f977e64e20b8d583",
   "lastOpenFiles": [
-    "Hygiene/Untitled.md",
+    "Completions.md",
+    "Daily Template.md",
     "Hygiene/Moisturizing.md",
+    "Hygiene/Untitled.md",
     "Hygiene/Cuticles.md",
     "Life/Cooking.md",
     "Hygiene",
@@ -181,8 +183,6 @@
     "Daily/24-07.04-Th.md",
     "Life/Vaseline.md",
     "Driving log 2024.md",
-    "Daily Template.md",
-    "Completions.md",
     "Sleep tracking.md",
     "Daily/24-07.03-We.md",
     "Daily/2023-12-27.md",

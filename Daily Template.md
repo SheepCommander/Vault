@@ -69,4 +69,7 @@ Programming:
 - [ ] Programming language! [LLVM](https://youtu.be/BT2Cv-Tjq7Q)! 
 - [ ] Neovim?
 - [ ] "Mark unread until i send another message" discord feature
+- [ ] App to manage YT subscriptions
+- [ ] App to manage Webtoon subscriptions
+- [ ] Front end to roblox?
 - [ ] 
