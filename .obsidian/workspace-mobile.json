@@ -15,6 +15,7 @@
               "state": {
                 "file": "Daily Template.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -25,8 +26,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/SAT/_Writing summary.md",
+                "file": "Daily/24-07.07-Su.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -98,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "raw/SAT/_Writing summary.md",
+            "file": "Daily/24-07.07-Su.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "raw/SAT/_Writing summary.md",
+            "file": "Daily/24-07.07-Su.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "raw/SAT/_Writing summary.md"
+            "file": "Daily/24-07.07-Su.md"
           }
         }
       },
@@ -158,6 +160,7 @@
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
+    "raw/SAT/_Writing summary.md",
     "Daily/24-07.02-Tu.md",
     "Daily/24-07.01-Mo.md",
     "Daily/2023-12-27.md",
@@ -187,7 +190,6 @@
     "SAT/Statistics.md",
     "Calc/Limits.md",
     "Life/Food Places.md",
-    "Life/Cooking.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
