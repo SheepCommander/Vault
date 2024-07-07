@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/24-07.07-Su.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/24-07.07-Su.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Template.md",
+                "file": "Daily/24-07.07-Su.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Template.md"
+                "file": "Daily/24-07.07-Su.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "f977e64e20b8d583",
   "lastOpenFiles": [
-    "Completions.md",
     "Daily Template.md",
+    "Daily/24-07.07-Su.md",
+    "Completions.md",
     "Hygiene/Moisturizing.md",
     "Hygiene/Untitled.md",
     "Hygiene/Cuticles.md",
@@ -196,7 +197,6 @@
     "Daily/24-06.30-Su.md",
     "Daily/24-06.29-Sa.md",
     "Daily/24-06.28-Fr.md",
-    "Daily/24-06.27-Th.md",
     "Art of Rhetoric",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
     "Daily/~syncthing~24-06.30-Su.md.tmp",
