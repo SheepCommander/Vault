@@ -3,7 +3,7 @@
   "showLineNumber": false,
   "autoPairBrackets": false,
   "useTab": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "newFileFolderPath": "/",
   "attachmentFolderPath": "raw/Images",
   "alwaysUpdateLinks": true,
@@ -28,5 +28,6 @@
     "editor:table-row-up",
     "editor:table-row-down",
     "editor:table-row-delete"
-  ]
+  ],
+  "trashOption": "local"
 }
