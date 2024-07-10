@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Driving log 2024.md",
+                "file": "Daily/24-07.09-Tu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Driving log 2024.md",
+            "file": "Daily/24-07.09-Tu.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Driving log 2024.md",
+            "file": "Daily/24-07.09-Tu.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Driving log 2024.md"
+            "file": "Daily/24-07.09-Tu.md"
           }
         }
       },
@@ -147,19 +147,18 @@
   "left-ribbon": {
     "hiddenItems": {
       "oz-clear-unused-images:Clear Unused Images": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
+    "Driving log 2024.md",
     "Daily Template.md",
     "Daily/24-07.07-Su.md",
     "raw/SAT/_Writing summary.md",
@@ -177,7 +176,6 @@
     "24-06.30 1.md",
     "24-06.30.md",
     "{{date}}.md",
-    "Driving log 2024.md",
     "Untitled.md",
     "Untitled",
     "Daily/24-06.26-We.md",
