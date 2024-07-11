@@ -165,8 +165,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f977e64e20b8d583",
+  "active": "75ac9b9a1d9d5d55",
   "lastOpenFiles": [
+    "Daily/24-07.11-Th.md",
+    "Daily/~syncthing~24-07.11-Th.md.tmp",
+    "raw/Images/GR3w0kRacAM2eVx.webp",
+    "raw/Images/GR3w0kRacAM2eVx.webp.crdownload",
     "Daily/24-07.10-We.md",
     "Excalidraw/Drawing 2024-07-09 05.46.28.excalidraw.md",
     "Daily/24-07.09-Tu.md",
@@ -193,7 +197,6 @@
     "Art of Rhetoric/Classical English Debate.md",
     "Driving log 2024.md",
     "Hygiene/Untitled.md",
-    "Life/Cooking.md",
     "Hygiene",
     "Art of Rhetoric",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
@@ -201,8 +204,6 @@
     "~syncthing~Daily Template.md.tmp",
     "Daily/~syncthing~24-06.29-Sa.md.tmp",
     "~syncthing~24-06.30.md.tmp",
-    "~syncthing~{{date}}.md.tmp",
-    "Zig",
     "raw/Images/Pasted image 20240601135326.png",
     "raw/Images/Pasted image 20240531173046.png",
     "Untitled.canvas",
@@ -212,7 +213,6 @@
     "raw/Images/Pasted image 20240512132848.png",
     "raw/Images/Pasted image 20240512132657.png",
     "raw/Images/Pasted image 20240512132612.png",
-    "raw/Images/Pasted image 20240512122853.png",
-    "raw/Images/Pasted image 20240512122746.png"
+    "raw/Images/Pasted image 20240512122853.png"
   ]
 }
