@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zig/My Zig Questions.md",
+                "file": "Daily/24-07.15-Mo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zig/My Zig Questions.md",
+                "file": "Daily/24-07.15-Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zig/My Zig Questions.md",
+                "file": "Daily/24-07.15-Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zig/My Zig Questions.md"
+                "file": "Daily/24-07.15-Mo.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "75ac9b9a1d9d5d55",
+  "active": "f977e64e20b8d583",
   "lastOpenFiles": [
+    "Zig/My Zig Questions.md",
+    "Daily/24-07.15-Mo.md",
     "Daily/24-07.11-Th.md",
     "Daily/~syncthing~24-07.11-Th.md.tmp",
     "raw/Images/GR3w0kRacAM2eVx.webp",
@@ -195,8 +197,6 @@
     "Dev/Git on Android.md",
     "Art of Rhetoric/Classic.md",
     "Art of Rhetoric/Classical English Debate.md",
-    "Driving log 2024.md",
-    "Hygiene/Untitled.md",
     "Hygiene",
     "Art of Rhetoric",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",

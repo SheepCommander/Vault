@@ -7,3 +7,6 @@
 - Kizuki ramen - Garlic most popular one, with one extra meat per 4 people
 
 Brown rice goes bad much faster than white rice 
+
+# Drink places
+- happylemon - brown sugar boba

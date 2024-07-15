@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-07.11-Th.md",
+                "file": "Life/Food Places.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/24-07.11-Th.md",
+            "file": "Life/Food Places.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/24-07.11-Th.md",
+            "file": "Life/Food Places.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/24-07.11-Th.md"
+            "file": "Life/Food Places.md"
           }
         }
       },
@@ -158,8 +158,9 @@
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
-    "Daily/24-07.09-Tu.md",
+    "Daily/24-07.14-Su.md",
     "Daily/24-07.11-Th.md",
+    "Daily/24-07.09-Tu.md",
     "Driving log 2024.md",
     "Daily Template.md",
     "Daily/24-07.07-Su.md",
@@ -187,7 +188,6 @@
     "SAT/_Notes.md",
     "SAT/_Math.md",
     "SAT/Calculator.md",
-    "SAT/Geometry.md",
     "raw/Precalc",
     "Daily",
     "/raw/Precalc",
