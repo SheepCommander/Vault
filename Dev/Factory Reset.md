@@ -9,24 +9,25 @@ winget install --id=yt-dlp.yt-dlp &
 winget install --id=Gyan.FFmpeg &
 winget install --id=Gyan.FFmpeg.Shared &
 winget install --id=HandBrake.HandBrake &
-
+echo win11&
+winget install --id=M2Team.NanaZip &
 winget install --id=AntibodySoftware.WizTree &
 winget install --id=File-New-Project.EarTrumpet &
 winget install --id=Microsoft.PowerToys &
-
-winget install --id=Vencord.Vesktop &
-winget install --id=OBSProject.OBSStudio &
 winget install --id=VideoLAN.VLC &
 winget install --id=eloston.ungoogled-chromium &
-winget install --id=LizardByte.Sunshine &
-
+winget install --id=Syncthing.Syncthing &
+echo stuff&
 winget install --id=Valve.Steam &
+winget install --id=Vencord.Vesktop &
+winget install --id=OBSProject.OBSStudio &
+winget install --id=LizardByte.Sunshine &
 winget install --id=Audacity.Audacity &
+echo dev&
 winget install --id=Microsoft.VisualStudio.2022.Community &
 winget install --id=zig.zig &
 winget install --id=VSCodium.VSCodium &
-winget install --id=Syncthing.Syncthing &
-echo git login&
+echo git&
 git config --global user.name "SheepPhone" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com" && gh auth login
 ```
 ### Doesn't support winget:
@@ -54,12 +55,8 @@ git config --global user.name "SheepPhone" && git config --global user.email "66
 - [ ] [Eartrumpet dev channel](https://github.com/File-New-Project/EarTrumpet?tab=readme-ov-file#experimental-dev-builds) until Actions is merged to main
 - [ ] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
 ### Closed source:
-- [ ] Holoearth
+- [ ] Holoearth, Whuthering Waves, 
 - [ ] DaVinci Resolve
 - [ ] Obsidian https://obsidian.md
 - [ ] GeForce Experience https://nvidia.com/en-us/geforce/geforce-experience/download/
-- [ ] MuseScore / MuseHub
 - [ ] Whatsapp
-### Don't want:
-winget install --id Mozilla.Firefox &
-- btw i install Blender & Godot from Steam for fun
