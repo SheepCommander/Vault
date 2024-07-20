@@ -31,8 +31,6 @@ echo git&
 git config --global user.name "SheepPhone" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com" && gh auth login
 ```
 ### Doesn't support winget:
-- [ ] NanaZip https://www.microsoft.com/store/apps/9N8G7TSCL18R
-	- its there
 - [ ] OrcaSlicer https://github.com/SoftFever/OrcaSlicer
 	- winget install --id=SoftFever.OrcaSlicer &
 - [ ] Osu! https://github.com/ppy/osu
