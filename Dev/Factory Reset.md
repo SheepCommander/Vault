@@ -26,6 +26,8 @@ winget install --id=Microsoft.VisualStudio.2022.Community &
 winget install --id=zig.zig &
 winget install --id=VSCodium.VSCodium &
 winget install --id=Syncthing.Syncthing &
+echo git login&
+git config --global user.name "SheepPhone" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com" && gh auth login
 ```
 ### Doesn't support winget:
 - [ ] NanaZip https://www.microsoft.com/store/apps/9N8G7TSCL18R
@@ -50,6 +52,7 @@ winget install --id=Syncthing.Syncthing &
 	- its there
 - [ ] JKPS (I just zip & pass it around so i dont have to redo the settings)
 - [ ] [Eartrumpet dev channel](https://github.com/File-New-Project/EarTrumpet?tab=readme-ov-file#experimental-dev-builds) until Actions is merged to main
+- [ ] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
 ### Closed source:
 - [ ] Holoearth
 - [ ] DaVinci Resolve

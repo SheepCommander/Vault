@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-07.19-Fr.md",
+                "file": "Dev/Factory Reset.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drawing",
+                "query": "godot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-07.19-Fr.md",
+                "file": "Dev/Factory Reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-07.19-Fr.md",
+                "file": "Dev/Factory Reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-07.19-Fr.md"
+                "file": "Dev/Factory Reset.md"
               }
             }
           },
@@ -167,12 +167,22 @@
   },
   "active": "f977e64e20b8d583",
   "lastOpenFiles": [
-    "Daily/24-07.15-Mo.md",
-    "Daily/24-07.19-Fr.md",
+    "Dev/Git on Android.md",
+    "Dev/Factory Reset.md",
+    "raw/Driving/License Requirements.md",
+    "raw/Skiing/Mohan clinic 1.md",
     "Zig/My Zig Questions.md",
+    "Driving/Move Over or Slow Down Law.md",
+    "raw/Driving/On test.md",
+    "raw/Images/Pasted image 20231217145408.png",
+    "raw/Images/GR3w0kRacAM2eVx.webp",
+    "Dev/Convert Video.md",
+    "Dev/Godot.md",
+    "Dev/Reduce video file size.md",
+    "Daily/24-07.19-Fr.md",
+    "Daily/24-07.15-Mo.md",
     "Daily/24-07.11-Th.md",
     "Daily/~syncthing~24-07.11-Th.md.tmp",
-    "raw/Images/GR3w0kRacAM2eVx.webp",
     "raw/Images/GR3w0kRacAM2eVx.webp.crdownload",
     "Daily/24-07.10-We.md",
     "Excalidraw/Drawing 2024-07-09 05.46.28.excalidraw.md",
@@ -188,15 +198,6 @@
     "Daily Template.md",
     "Completions.md",
     "Daily/24-06.30-Su.md",
-    "Daily/24-07.05-Fr.md",
-    "Daily/24-07.04-Th.md",
-    "Daily/24-07.03-We.md",
-    "Hygiene/Cuticles.md",
-    "Hygiene/Moisturizing.md",
-    "Dev/Factory Reset.md",
-    "Dev/Clear cmd.md",
-    "Dev/Git on Android.md",
-    "Art of Rhetoric/Classic.md",
     "Hygiene",
     "Art of Rhetoric",
     "Daily/~syncthing~24-07.01-Mo.md.tmp",
@@ -212,7 +213,6 @@
     "raw/Images/Pasted image 20240206190135.png",
     "raw/Images/Pasted image 20240512132848.png",
     "raw/Images/Pasted image 20240512132657.png",
-    "raw/Images/Pasted image 20240512132612.png",
-    "raw/Images/Pasted image 20240512122853.png"
+    "raw/Images/Pasted image 20240512132612.png"
   ]
 }
