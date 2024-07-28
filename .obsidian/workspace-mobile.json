@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Git on Android.md",
+                "file": "Driving log 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dev/Git on Android.md",
+            "file": "Driving log 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dev/Git on Android.md",
+            "file": "Driving log 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dev/Git on Android.md"
+            "file": "Driving log 2024.md"
           }
         }
       },
@@ -158,10 +158,12 @@
   },
   "active": "1a77ddfbc8f9348c",
   "lastOpenFiles": [
+    "Daily/24-07.28-Su.md",
+    "Daily/24-07.22-Mo.md",
+    "Dev/Git on Android.md",
     "Dev/Convert Video.md",
     "Dev/Clear cmd.md",
     "Daily/24-07.18-Th.md",
-    "Dev/Git on Android.md",
     "Daily/24-07.15-Mo.md",
     "Life/Food Places.md",
     "Daily/24-07.14-Su.md",
@@ -183,8 +185,6 @@
     "24-06.30/}.md",
     "24-06.30",
     "24-06.30 1.md",
-    "24-06.30.md",
-    "{{date}}.md",
     "Untitled",
     "raw/Images/Pasted image 20231217145408.png",
     "raw/Images/Pasted image 20240206183301.png",

@@ -23,8 +23,8 @@ I drove 10 minutes at night from 9:07pm to 9:22pm with my dad.
 
 We were going from Albertson (3rd place books) to home
 
-### 
-
-
 ### Sunday, July 7
 I drove to and from the park with my dad for 40 minutes after 9pm, the latter half of it being spent gaining experience with really tight parking spots and how to target etc how what im targeting will move towards the middle of the entire windshield as i get closer to it
+
+# Sunday, July 28
+4
