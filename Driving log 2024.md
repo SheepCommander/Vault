@@ -27,4 +27,6 @@ We were going from Albertson (3rd place books) to home
 I drove to and from the park with my dad for 40 minutes after 9pm, the latter half of it being spent gaining experience with really tight parking spots and how to target etc how what im targeting will move towards the middle of the entire windshield as i get closer to it
 
 # Sunday, July 28
-4
+At 3:32pm day i practiced turning my car around 180 degrees to get out of our driveway then we drove to Alderwood Mall
+
+we switched a few times
