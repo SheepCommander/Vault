@@ -28,5 +28,6 @@ I drove to and from the park with my dad for 40 minutes after 9pm, the latter ha
 
 # Sunday, July 28
 At 3:32pm day i practiced turning my car around 180 degrees to get out of our driveway then we drove to Alderwood Mall
+for 20 minutes
 
-we switched a few times
+At 4:30 
