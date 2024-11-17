@@ -17,3 +17,6 @@ Me:
 - [ ] PANTS
 
 - [ ] hat/beanie?
+- [ ] earbud tips?
+- [ ] foot scrub?
+- [ ] face washcloth?
