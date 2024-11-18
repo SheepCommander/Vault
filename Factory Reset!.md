@@ -53,8 +53,6 @@ gh auth login &
 ```
 # Download Portable
 - [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
-	- [x] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
-	- [x] FanControl https://github.com/Rem0o/FanControl.Releases/releases
 - [ ] Krita https://krita.org/en/download/
 - [ ] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
 	- [ ] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
