@@ -11,7 +11,6 @@ Me:
 - [ ] Cute masks
 - [ ] Arm sleeves
 - [ ] Sleep socks / House socks
-- [ ] Head band
 - [ ] Gloves (for depilatory creams)
 - [ ] More sheep stuff
 - [ ] PANTS
@@ -20,3 +19,5 @@ Me:
 - [ ] earbud tips?
 - [ ] foot scrub?
 - [ ] face washcloth?
+
+- [ ] Head band
