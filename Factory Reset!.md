@@ -17,6 +17,7 @@ winget install EarTrumpet --source msstore --accept-package-agreements &
 winget install PowerToys --source msstore --accept-package-agreements &
 winget install --id=VideoLAN.VLC &
 winget install --id=AntibodySoftware.WizTree &
+winget install --id=REALiX.HWiNFO &
 echo stuff&
 winget install --id=Audacity.Audacity &
 winget install --id=Obsidian.Obsidian &
