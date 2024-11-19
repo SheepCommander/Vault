@@ -1,25 +1,26 @@
-- [ ] Wash face, Put on sunscreen, Jojoba oil, Mouthwash
-- [ ] Fill up water bottle
-**How are you feeling?**
+1. [[Face, Skin]]
+2. [[Sleep]]
+3. [[Water]]
+4. [[Stretching]]
+5. [[Voice Training]]
 
-**How's Ari?**
+Morning:
+- [ ] Wash face
+- [ ] Moisturize face
+- [ ] Moisturize hands
 
-**School: Were u productive?** [[Daily Tracking]]
+- [ ] Drink & Fill up water bottle!!
+	- [ ] *breakfast if time :o*
+Bus:
+- [ ] Acne SOS spot
+- [ ] Drink water
+- [ ] sunscreen?
+- [ ] voice training?
 
-**Notes:**
+School:
+- [ ] Stretch 5min
+- [ ] Voice training 5min
+- level of progress: %
 
-- [ ] Sunscreen @ noon
----
-Home:
-- [ ] Shower
-	- [ ] Cleanse / toner / pure emulsion / moisturizer
-	- [ ] Mouthwash
-- [ ] Voice training
-- [ ] Voice training
-- [ ] Voice training
-- [ ] Stretching
----
-- [ ] Godot/NVim
-- [ ] Refill waterbottle
-- [ ] Refill waterbottle
-- [ ] Osu
+Lunch:
+- [ ] 
