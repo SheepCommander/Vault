@@ -7,8 +7,8 @@
 Morning:
 - [ ] Wash face
 - [ ] Moisturize face
-- [ ] Moisturize hands
-- [ ] **Brush teeth**
+- [ ] Moisturize hands | Jojoba oil
+- [ ] **Brush teeth** / mouth wash!
 
 - [ ] Drink & Fill up water bottle!!
 	- [ ] *breakfast if time :o*
