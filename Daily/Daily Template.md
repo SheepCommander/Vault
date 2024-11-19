@@ -8,6 +8,7 @@ Morning:
 - [ ] Wash face
 - [ ] Moisturize face
 - [ ] Moisturize hands
+- [ ] **Brush teeth**
 
 - [ ] Drink & Fill up water bottle!!
 	- [ ] *breakfast if time :o*
@@ -23,4 +24,11 @@ School:
 - level of progress: %
 
 Lunch:
-- [ ] 
+- [ ] sunscreen?
+Bus:
+- [ ] voice training?
+
+Home:
+- [ ] Wash face
+- [ ] Brush teeth
+
