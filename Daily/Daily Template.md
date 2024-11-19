@@ -32,3 +32,4 @@ Home:
 - [ ] Wash face
 - [ ] Brush teeth
 
+caffeine 10hr; eating 3hr; homework 2hr; screens 1hr; avoid excessive snoozing
