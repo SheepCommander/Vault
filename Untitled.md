@@ -1,9 +1,4 @@
 https://www.brianapps.net/sizer4/
-
-|     |     |
-| --- | --- |
-|     |     |
-
 ###### Important apps
 Steam osu! Obsidian Godot VLC Git FireFox LazyGit
 orcaslicer
@@ -34,7 +29,4 @@ WinToys
 PowerToys
 EarTrumpet
 Twinkle Tray
-###### Unsure
 StartAllBack (freemium)
-teracopy?? (idk if its actually worthit)
-files??

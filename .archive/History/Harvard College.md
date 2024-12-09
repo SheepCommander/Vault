@@ -1,1 +1,0 @@
-Puritan College founded in Massachusetts to train ministers.

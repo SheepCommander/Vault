@@ -1,1 +1,0 @@
-“The Lost Colony.” First attempted English colony in the New World. Founded in 1585 by Sir Walter Raleigh on an island off the modern-day North Carolina coast. By 1590, its inhabitants had vanished for reasons that still remain unknown.
