@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "trashOption": "local",
   "newFileLocation": "current",
-  "attachmentFolderPath": "_data_",
+  "attachmentFolderPath": "_data_/assets",
   "userIgnoreFilters": [
     "_data_/"
   ],

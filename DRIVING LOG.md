@@ -1,4 +1,11 @@
 Overall count: 
+# Sunday, Dec 8
+Drove 15 minutes at 4pm to my friend's house to record a video (with my dad)
+# Wed, Dec 4
+Internship 10 mins
+# Friday, Nov 29
+I drove for 1 hour at night (apparently only 9 miles) from practicing in driveways to driving past my school and going to my aunt's house and back.
+5pm (but PNW so it was pitch black out)
 # Saturday, October 19th
 I drove 25 minutes to 24hr fitness during the day
 # Sunday, October 6th
@@ -33,4 +40,3 @@ At 4:30 we drove around practicing U-Turns, until 5:48. We did not have time to 
 
 # Monday, Sep 9
 At 6:24pm after picking up my license plate, I drove home for 10 minutes.
-
