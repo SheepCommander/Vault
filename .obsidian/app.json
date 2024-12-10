@@ -8,5 +8,6 @@
   ],
   "propertiesInDocument": "source",
   "vimMode": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "autoConvertHtml": true
 }
