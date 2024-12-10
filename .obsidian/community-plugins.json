@@ -3,5 +3,6 @@
   "custom-sort",
   "mermaid-tools",
   "templater-obsidian",
-  "global-search-and-replace"
+  "global-search-and-replace",
+  "obsidian-git"
 ]
