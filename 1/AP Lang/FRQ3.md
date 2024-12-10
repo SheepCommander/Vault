@@ -3,10 +3,10 @@ https://apcentral.collegeboard.org/media/pdf/ap-english-language-and-composition
 
 **Thesis + two (or three) supporting claims**
 
-Claim 1 + Evidence + Commentary
+- Claim 1 + ==Evidence== + Commentary
 
-Claim 2 + Evidence + Commentary
+- Claim 2 + ==Evidence== + Commentary
 
-Claim 3 + Evidence + Commentary
+- Claim 3 + ==Evidence== + Commentary
 
-Restate thesis shortly for conclusion.
+*Restate thesis shortly for conclusion.*
