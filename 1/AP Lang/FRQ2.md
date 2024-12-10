@@ -1,4 +1,4 @@
-Rhetorical Analysis
+# Rhetorical Analysis
 **Thesis**
 **Evidence AND Commentary** 
 **Sophistication**

@@ -1,4 +1,4 @@
-Synthesis
+# Synthesis
 **Thesis**
 **Evidence AND Commentary** `_/4`
 **Sophistication**
