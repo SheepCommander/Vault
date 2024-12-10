@@ -14,13 +14,11 @@ Sunshine / Moonlight / VigEmBus / ZeroTier
 CrystalDiskInfo.AoiEdition
 r2modman
 HP Connectivity Kit
-Bluebook
 Rare epic games launcher
 VeskTop
 VSCodium
 Krita
 OpenTableDriver + VMulti
-
 ###### Win11 specific
 WizTree
 Lenovo Legion Toolkit
