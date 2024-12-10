@@ -9,5 +9,5 @@ $\log_{a}1=0$
 $\log_{a}0:\text{DNE}$
 base change rule
 	$\log_{a}(x)=\log_{b}(x)/\log_{b}a$
-APPARENTLY
-	$$
+APPARENTLY base switch rule
+	$\log_{a}b=1/\log_{b}a$
