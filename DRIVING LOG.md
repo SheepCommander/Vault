@@ -1,5 +1,8 @@
 Overall count: 
-#
+# Wednesday, Dec 11
+One hour drive with 405 school
+# Tuesday, Dec 10
+TK
 # Sunday, Dec 8
 Drove 15 minutes at 4pm to my friend's house to record a video (with my dad)
 # Wed, Dec 4

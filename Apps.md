@@ -1,12 +1,12 @@
-https://www.brianapps.net/sizer4/
+https://brianapps.net/sizer4/
 ###### Important apps
 Steam osu! Obsidian Godot VLC Git FireFox LazyGit
 orcaslicer
-yt-dlp (auto-installs ffmpeg)
+yt-dlp (ffmpeg)
 nanazip
 HWiNFO 3dmark Cinebench
 Throttlestop
-Sizer4
+Sizer4 https://brianapps.net/sizer4/
 ###### Various
 Audacity
 OBS
