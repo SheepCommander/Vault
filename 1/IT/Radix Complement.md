@@ -7,3 +7,5 @@ RC(0005) = 9995
 
 # Diminished Radix Complement
 The diminished radix complement of a number $y$ in radix $b$ is, by definition, $(b^n-1)-y$.
+
+This means instead of 100 - $y$, it is 99 - $y$, so we **never have to borrow.**
