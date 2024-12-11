@@ -15,5 +15,8 @@ DRC(B-A) = DRC(-D)
 $10^n-1-(B-A)=10^n-1+D$
 ...
 
-47 - 13 = DRC( DRC(47) - 13 )
-$$$$
+47 - 13 = DRC( DRC(47) + 13 )
+$$\begin{align} \\
+&=DRC(52-13) \\
+&=DRC()
+\end{align}$$
