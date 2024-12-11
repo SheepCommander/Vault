@@ -1,8 +1,5 @@
-for a $n$ digit number $y$,
-$RC=b^n-y$
-$b$ base 10
+for a $n$ digit number $y$, $RC=b^n-y$.
 
-A five digit number always returns a 5 digit answer!! (We're understanding how computers work)
 RC(0005) = 9995
 RC(9945) = 0055
 # Diminished Radix Complement
@@ -11,3 +8,11 @@ The diminished radix complement of a number $y$ in radix $b$ is, by definition, 
 This means instead of 100 - $y$, it is 99 - $y$, so we **never have to borrow.**
 In radix 10, $DRC(x)=10^n-1-x$
 	and $DRC( DRC(x) )=x$
+
+A - B = D
+B - A = -D
+DRC(B-A) = DRC(-D)
+$10^n-1-(B-A)=10^n-1+D$
+$10^n-B+A=10^n+D$
+...
+
