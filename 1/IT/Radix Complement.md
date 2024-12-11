@@ -21,3 +21,7 @@ $$\begin{align} \\
 &=DRC(65) \\
 &=34 \\
 \end{align}$$
+000000 - 1 = 999999
+000047 + 999999 = 000043
+6-digit binary computer:
+111 111 = -1
