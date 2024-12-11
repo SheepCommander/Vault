@@ -22,7 +22,8 @@ $$
 
 
 
-
+Equ of tangent line: $(x,y)=(c,f(c))$
+$y=mx+b=f'(c)*(x-c)=f(c)$
 
 
 
