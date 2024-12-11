@@ -25,3 +25,10 @@ $$\begin{align} \\
 000047 + 999999 = 000043
 6-digit binary computer:
 111 111 = -1
+
+---
+# Negative Binary Numbers
+Convention: reserve MSB (Most Significant Bit) as "sign bit"
+
+Highest 6 digit positive val we can have is **0**11111 ($31_{10}$)
+Lowest 6 digit negative binary number is **1**00000 ($-32_{10}$)
