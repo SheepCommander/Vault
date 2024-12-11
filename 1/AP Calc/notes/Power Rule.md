@@ -1,6 +1,4 @@
 for $x^n$:
-$$p(x)=a(x-h)^n+k$$
-$$p'(x)=n*a(x-h)^{n-1}$$
 $$\frac{d}{dx}ax^n=a*nx^{n-1}$$
 sin
 cos
