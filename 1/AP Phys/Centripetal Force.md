@@ -7,3 +7,5 @@ F_{c}=\frac{mv^2}{r}
 $$
 
 
+$\sqrt{ g*r }=v$
+$$\sum F=N+mg=\frac{mv^2}{r}$$
