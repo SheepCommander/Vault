@@ -5,7 +5,11 @@ $$\sqrt{x} < x^2 < x^{10}$$
 $$\log_{10}x < \log_5{x} < \log_2{x}$$
 ---
 
+V.A. $\frac{x}{x+1}$
+H.A. of $\frac{2x+1}{3x}=\frac{2}{3}$
+
+---
 $$\frac{x^3+x^2+...}{x^3+...}$$
 Powers same, check coefficients.
 
-Powers different, top/bottom dominant.
+Powers different, top/bottom dominant. ($\to 0$ or $\to \infty$)
