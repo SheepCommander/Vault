@@ -29,7 +29,7 @@ winget install --id=ZeroTier.ZeroTierOne &
 echo game&
 winget install --id=Valve.Steam &
 winget install --id=ebkr.r2modman &
-echo winget install --id=HeroicGamesLauncher.HeroicGamesLauncher &
+echo winget install rare &
 winget install --id=Vencord.Vesktop &
 echo dev&
 winget install --id=VSCodium.VSCodium &
