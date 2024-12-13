@@ -4,7 +4,6 @@ sin
 cos
 -sin
 -cos
-$$f(x)=a^x$$
 $$
 \begin{align} f'(x) &= \lim_{h \rightarrow 0} \dfrac{f(x + h) - f(x)}{h}\\ &= \lim_{h \rightarrow 0} \dfrac{a^{x + h} - a^x}{h}\\ &= \lim_{h \rightarrow 0} \dfrac{a^x a^h - a^x}{h}\\ &= \lim_{h \rightarrow 0} \dfrac{a^x \big(a^h - 1\big)}{h}. \end{align}
 $$
