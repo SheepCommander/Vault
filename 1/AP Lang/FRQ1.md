@@ -4,6 +4,7 @@
 ###### `_/4` **Evidence AND Commentary** 
 
 ###### `_/1` **Sophistication**
+*no generalizations & explicitly multiple arguments*
 1. Crafting a nuanced argument by consistently identifying and exploring complexities or tensions across the sources.
    
 2. Articulating the implications or limitations of an argument (either the student’s argument or arguments conveyed in the sources) by situating it within a broader context.
