@@ -3,7 +3,6 @@
 - [ ] Heimler history 
 
 **AP Calc:**
-- [ ] concavity / first, second derivatives
 
 **AP Lang:**
 - [ ] Memorize rhetorical device terms
