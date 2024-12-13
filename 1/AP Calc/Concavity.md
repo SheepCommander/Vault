@@ -1,3 +1,3 @@
 Increasing -> $f'=(+)$
-Decreasing -> $f'=(-)$
+Decreasing  $f'=(-)$
 Concave up 
