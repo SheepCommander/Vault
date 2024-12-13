@@ -9,3 +9,8 @@
 - Camera
 - Sewing machine
 - Early automobiles
+
+Industrialist Business Leaders
+- Industrial Statesmen
+- Captains of Industry
+- Robber Barons
