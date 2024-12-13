@@ -6,12 +6,11 @@ cos
 -cos
 $$\begin{align} \\
 f'(x) &= \lim_{h \to 0} \frac{f(x + h) - f(x)}{h} \\
-&= \lim_{h \rightarrow 0} \frac{a^{x + h} - a^x}{h} \\
-&= \lim_{h \rightarrow 0} \frac{a^x a^h - a^x}{h}\\
-&= \lim_{h \rightarrow 0} \frac{a^x \big(a^h - 1\big)}{h} \\
-&= a^x \displaystyle \lim_{h \rightarrow 0} \frac{a^h -1}{h}
+&= \lim_{h \to 0} \frac{a^{x + h} - a^x}{h} \\
+&= \lim_{h \to 0} \frac{a^x a^h - a^x}{h}\\
+&= \lim_{h \to 0} \frac{a^x \big(a^h - 1\big)}{h} \\
+&= a^x \displaystyle \lim_{h \to 0} \frac{a^h -1}{h}\\
 \end{align}$$
-$$f'(x) = a^x \displaystyle \lim_{h \rightarrow 0} \dfrac{a^h -1}{h}$$
 $$f(x) = a^x = \big(e^{\ln{a}}\big)^x = e^{x \ln{a}}$$
 $$f'(x) = e^{x \ln{a}} (\ln{a})= a^x \ln{a}$$
 $$
