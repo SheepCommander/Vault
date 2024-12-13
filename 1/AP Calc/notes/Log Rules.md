@@ -1,7 +1,7 @@
+
 $\log mn=\log m+\log n$
 $\log \frac{m}{n}=\log m-\log n$
 $\log m^n=n\log m$
-
 
 ---
 $\log_{a}a^k=k$
