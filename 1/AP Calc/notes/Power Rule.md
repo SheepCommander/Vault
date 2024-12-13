@@ -4,15 +4,7 @@ sin
 cos
 -sin
 -cos
-$$\begin{align} \\
-f'(x) &= \lim_{h \to 0} \frac{f(x + h) - f(x)}{h} \\
-&= \lim_{h \to 0} \frac{a^{x + h} - a^x}{h} \\
-&= \lim_{h \to 0} \frac{a^x a^h - a^x}{h}\\
-&= \lim_{h \to 0} \frac{a^x \big(a^h - 1\big)}{h} \\
-&= a^x \displaystyle \lim_{h \to 0} \frac{a^h -1}{h}\\
-\end{align}$$
-$$f(x) = a^x = \big(e^{\ln{a}}\big)^x = e^{x \ln{a}}$$
-$$f'(x) = e^{x \ln{a}} (\ln{a})= a^x \ln{a}$$
+
 $$
 \boxed{\frac{d}{dx} (e^x) = e^x}
 \boxed{\frac{d}{dx} (a^x) = a^x \ln a}
@@ -20,12 +12,11 @@ $$
 
 
 
-
-
-
-
-Equ of tangent line: $(x,y)=(c,f(c))$
-$y=mx+b=f'(c)*(x-c)=f(c)$
+Equation of tangent line: $(x,y)=(c,f(c))$
+$$\begin{align}
+y&=mx+b \\
+y&=f'(c)*(x-c)+f(c)
+\end{align}$$
 
 
 
