@@ -4,7 +4,7 @@ $$
 $$
 Quotient Rule
 $$\begin{align}
-\frac{d}{dx}u÷v  &= \frac{u'v-v'u}{v^2}
+\frac{d}{dx} [u \div v]  &= \frac{u'v-v'u}{v^2}
 \end{align}$$
 Chain Rule
 
