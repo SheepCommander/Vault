@@ -4,7 +4,7 @@ Steam osu! Obsidian Godot VLC Git FireFox LazyGit
 orcaslicer
 yt-dlp (ffmpeg)
 nanazip
-HWiNFO 3dmark Cinebench
+HWiNFO 3dmark Cinebench OCCT tests
 Throttlestop
 Sizer4 https://brianapps.net/sizer4/
 ###### Various
