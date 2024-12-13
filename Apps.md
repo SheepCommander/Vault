@@ -14,7 +14,7 @@ Sunshine / Moonlight / VigEmBus / ZeroTier
 CrystalDiskInfo.AoiEdition
 r2modman
 HP Connectivity Kit
-Rare epic games launcher
+Rare games launcher / Starward
 VeskTop
 VSCodium
 Krita
