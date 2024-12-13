@@ -1,7 +1,8 @@
 A function $f$ is **even** if for all $x$ in its domain,
-$f(-x) = f(x)$.
+> $f(-x) = f(x)$.
+
 A function $f$ is **odd** if for all $x$ in its domain,
-$f(-x) = -f(x)$.
+> $f(-x) = -f(x)$.
 
 # How to tell
 $f(x)=x^2+1$  is even!
