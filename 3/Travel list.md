@@ -19,7 +19,7 @@ Electronics:
 - [ ] Mouse
 	- [ ] Mouse Battery?
 - [ ] Ring/Ring charger
-- [ ] Drawing tablet? 
+		- [ ] Drawing tablet? 
 - [ ] EU Adapter
 Skincare:
 - [ ] Vaseline
