@@ -1,11 +1,16 @@
 # School
 **APUSH:**
-- [ ] Heimler history 
+- [ ] Heimler history units
+- [ ] Chapter Qs
 
 **AP Calc:**
+- [ ] integrals
+- [ ] concavity / first, second derivatives
+- [ ] Power Rule:
 
 **AP Lang:**
 - [ ] Memorize rhetorical device terms
+- [ ] Memorize rubric
 - [ ] Extra essay misogynists~
 
 **AP Phys:**
@@ -18,6 +23,8 @@
 # Other
 **PARENT FOLLOW UP**:
 - [ ] Blood;
+- [ ] LAPTOP
+- [ ] 
 
 Skills:
 - Art, drawing

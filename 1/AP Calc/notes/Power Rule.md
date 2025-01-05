@@ -1,10 +1,18 @@
 for $x^n$:
+$$p(x)=a(x-h)^n+k$$
+$$p'(x)=n*a(x-h)^{n-1}$$
 $$\frac{d}{dx}ax^n=a*nx^{n-1}$$
 sin
 cos
 -sin
 -cos
-
+$$f(x)=a^x$$
+$$
+\begin{align} f'(x) &= \lim_{h \rightarrow 0} \dfrac{f(x + h) - f(x)}{h}\\ &= \lim_{h \rightarrow 0} \dfrac{a^{x + h} - a^x}{h}\\ &= \lim_{h \rightarrow 0} \dfrac{a^x a^h - a^x}{h}\\ &= \lim_{h \rightarrow 0} \dfrac{a^x \big(a^h - 1\big)}{h}. \end{align}
+$$
+$$f'(x) = a^x \displaystyle \lim_{h \rightarrow 0} \dfrac{a^h -1}{h}$$
+$$f(x) = a^x = \big(e^{\ln{a}}\big)^x = e^{x \ln{a}}$$
+$$f'(x) = e^{x \ln{a}} (\ln{a})= a^x \ln{a}$$
 $$
 \boxed{\frac{d}{dx} (e^x) = e^x}
 \boxed{\frac{d}{dx} (a^x) = a^x \ln a}
@@ -12,11 +20,11 @@ $$
 
 
 
-Equation of tangent line: $(x,y)=(c,f(c))$
-$$\begin{align}
-y&=mx+b \\
-y&=f'(c)*(x-c)+f(c)
-\end{align}$$
+
+
+
+
+
 
 
 

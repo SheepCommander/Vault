@@ -1,6 +1,8 @@
 [
   "obsidian-latex-suite",
   "custom-sort",
+  "mermaid-tools",
+  "templater-obsidian",
   "global-search-and-replace",
   "obsidian-git"
 ]

@@ -1,8 +1,12 @@
 Overall count: 
+# Thursday, Dec 12
+30 minutes driving to internship then a meats place at night and back
+# Wednesday, Dec 18
+30 minutes driving to 405 then internship and back
+# Thursday, Dec 12
+40 minutes of driving from Misha's School to home at night
 # Wednesday, Dec 11
-One hour drive with 405 school
-# Tuesday, Dec 10
-TK
+I had an 1 hour drive with the 405 instructor, then 30 minutes round trip to and from the IT internship
 # Sunday, Dec 8
 Drove 15 minutes at 4pm to my friend's house to record a video (with my dad)
 # Wed, Dec 4

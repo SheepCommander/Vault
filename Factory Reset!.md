@@ -8,11 +8,11 @@ firefox -preferences -setDefaultBrowser -url "https://github.com/ppy/osu/release
 # Winget
 ```js
 echo git&
-winget install --id Git.Git -e -s winget &
+winget install --id Git.Git -e --source winget &
 echo win11&
-echo winget install "nanazip preview" -s msstore --accept-package-agreements &
-winget install EarTrumpet -s msstore --accept-package-agreements &
-winget install PowerToys -s msstore --accept-package-agreements &
+echo winget install "nanazip preview" --source=msstore --accept-package-agreements &
+winget install EarTrumpet --source msstore --accept-package-agreements &
+winget install PowerToys --source msstore --accept-package-agreements &
 winget install --id=VideoLAN.VLC &
 winget install --id=AntibodySoftware.WizTree &
 winget install --id=REALiX.HWiNFO &
@@ -29,7 +29,7 @@ winget install --id=ZeroTier.ZeroTierOne &
 echo game&
 winget install --id=Valve.Steam &
 winget install --id=ebkr.r2modman &
-winget install rare &
+echo winget install --id=HeroicGamesLauncher.HeroicGamesLauncher &
 winget install --id=Vencord.Vesktop &
 echo dev&
 winget install --id=VSCodium.VSCodium &
