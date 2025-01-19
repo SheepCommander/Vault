@@ -1,10 +1,3 @@
-https://www.brianapps.net/sizer4/
-###### Important apps
- Obsidian  VLC FireFox 
-orcaslicer
-nanazip
-Throttlestop
-Sizer4
 ###### Various
 Audacity
 OBS
