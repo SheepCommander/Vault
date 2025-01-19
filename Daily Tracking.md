@@ -18,18 +18,3 @@
 
 **JP IV:**
 - [ ] Go through every link
-
----
-
-Skills:
-- Art, drawing
-- Pixel art
-
-- Writing on a class whiteboard
-- HandWriting
-
-- Audio processing
-- Image processing
-
-- Video - hano
-- Music
