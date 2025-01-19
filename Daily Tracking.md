@@ -20,11 +20,6 @@
 - [ ] Go through every link
 
 ---
-# Other
-**PARENT FOLLOW UP**:
-- [ ] Blood;
-- [ ] LAPTOP
-- [ ] 
 
 Skills:
 - Art, drawing
