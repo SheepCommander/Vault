@@ -1,6 +1,6 @@
 https://www.brianapps.net/sizer4/
 ###### Important apps
-Steam osu! Obsidian Godot VLC Git FireFox LazyGit
+ Obsidian  VLC Git FireFox LazyGit
 orcaslicer
 yt-dlp (auto-installs ffmpeg)
 nanazip
@@ -15,7 +15,6 @@ CrystalDiskInfo.AoiEdition
 r2modman
 HP Connectivity Kit
 Bluebook
-Rare epic games launcher
 VeskTop
 VSCodium
 Krita
