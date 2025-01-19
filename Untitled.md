@@ -1,24 +1,18 @@
 https://www.brianapps.net/sizer4/
 ###### Important apps
- Obsidian  VLC Git FireFox LazyGit
+ Obsidian  VLC FireFox 
 orcaslicer
-yt-dlp (auto-installs ffmpeg)
 nanazip
-HWiNFO 3dmark Cinebench
 Throttlestop
 Sizer4
 ###### Various
 Audacity
 OBS
 Sunshine / Moonlight / VigEmBus / ZeroTier
-CrystalDiskInfo.AoiEdition
-r2modman
 HP Connectivity Kit
 Bluebook
-VeskTop
-VSCodium
 Krita
-OpenTableDriver + VMulti
+OpenTabletDriver + VMulti
 
 ###### Win11 specific
 WizTree
