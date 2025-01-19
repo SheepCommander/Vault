@@ -15,11 +15,5 @@ Krita
 OpenTabletDriver + VMulti
 
 ###### Win11 specific
-WizTree
-Lenovo Legion Toolkit
 UniGetUI
-WinToys
-PowerToys
-EarTrumpet
-Twinkle Tray
 StartAllBack (freemium)
